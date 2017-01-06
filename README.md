@@ -43,7 +43,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
   + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20OS%20X%20Yosemite.txt 
   + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20OS%20X%20El%20Capital.txt 
   + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20macOS%20Sierra.txt
-      (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName to your usb name)
+  + (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName to your usb name)
 - Sources Clover: 
   + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.10%20Clover.zip
   + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.11%20Clover.zip

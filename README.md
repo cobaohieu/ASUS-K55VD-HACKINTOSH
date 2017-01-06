@@ -59,13 +59,13 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 
     - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
     - Open Command Prompt via Aministrator access and typing.(
-      * diskpart
-      * list disk (please choose your HDD you want install macOS)
-      * sel disk 0 (change 0 to your HDD on list)
-      * create part efi size=504 (if no empty partition please delete about 50Gb)
-      * format fs=fat32 quick label="EFI"
-      * create part primary size=48500 (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500)
-      * format fs=exfat quick label="Macintosh HD"
+      + diskpart
+      + list disk (please choose your HDD you want install macOS)
+      + sel disk 0 (change 0 to your HDD on list)
+      + create part efi size=504 (if no empty partition please delete about 50Gb)
+      + format fs=fat32 quick label="EFI"
+      + create part primary size=48500 (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500)
+      + format fs=exfat quick label="Macintosh HD"
       Done.)
     - Plug in usb to usb 3.0 port and Format usb with 2 partition: 1Gb for "ESP" with Fat and the rest Gb for UsbName with HFS+ (notes: Format with GUID Partition MAP)
     - Download source setup and copy it to Application folder

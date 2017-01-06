@@ -3,63 +3,62 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 
 ...............................................:System:...............................................
 
-    - Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
-    - Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
-    - Hard disk : HDD Seagate 500GB
-    - RAM : 6GB DDR3 / bus 1600
-    - Wifi : Qualcomm Atheros AR9485WB-EG not work (Replaced by: AR9285)
-    - LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
-    - Audio : Realtek ALC270
-    - USB 3.0 : Intel 7series/210 USB 3.0
-    - Touchpad : Elan Touchpad
-    - Webcam : 0.3 Web Camera
-    - Card reader: Realtek PCI Express not work
-    - Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
-    - Optical Drive: Super-Multi DVD (Optional).
+- Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
+- Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
+- Hard disk : HDD Seagate 500GB
+- RAM : 6GB DDR3 / bus 1600
+- Wifi : Qualcomm Atheros AR9485WB-EG not work (Replaced by: AR9285)
+- LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
+- Audio : Realtek ALC270
+- USB 3.0 : Intel 7series/210 USB 3.0
+ - Touchpad : Elan Touchpad
+- Webcam : 0.3 Web Camera
+- Card reader: Realtek PCI Express not work
+- Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
+- Optical Drive: Super-Multi DVD (Optional).
     
 ...............................................:Status:...............................................
 
-  - Status Working:
-    + Graphics (Intel HD4000)
-    + Audio
-    + WIFI (Replaced)
-    + LAN
-    + HDMI
-    + VGA work but not good
-    + Sleep, Processor Speedsteps and Native power management.
-    + Trackpad
-    + Fn Hotkeys
-    + USB works
-    + Disable turbo boost on battery (if neccessary)
+- Status Working:
+  + Graphics (Intel HD4000)
+  + Audio
+  + WIFI (Replaced)
+  + LAN
+  + HDMI
+  + VGA work but not good
+  + Sleep, Processor Speedsteps and Native power management.
+  + Trackpad
+  + Fn Hotkeys
+  + USB works
+  + Disable turbo boost on battery (if neccessary)
     
 - Status not working:
-    + GT610M Graphics
-    + Realtek CardReader
-    + Webcam
-    + WIFI (If not replaced)
+  + GT610M Graphics
+  + Realtek CardReader
+  + Webcam
+  + WIFI (If not replaced)
     
 ...............................................:Prepair:...............................................
 
-    + One USB 3.0 with 8Gb or higher
-    + Sources OS: http://osx.vn/threads/tong-hop-link-download-macos-10-4-10-12-2-orginal-tu-mac-app-store.286
-    + Sources code Terminal: 
-      * 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20OS%20X%20Yosemite.txt 
-      * 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20OS%20X%20El%20Capital.txt 
-      * 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20macOS%20Sierra.txt
+- One USB 3.0 with 8Gb or higher
+- Sources OS: http://osx.vn/threads/tong-hop-link-download-macos-10-4-10-12-2-orginal-tu-mac-app-store.286
+- Sources code Terminal: 
+  + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20OS%20X%20Yosemite.txt 
+  + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20OS%20X%20El%20Capital.txt 
+  + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20macOS%20Sierra.txt
       (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName to your usb name)
-    + Sources Clover: 
-      * 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.10%20Clover.zip
-      * 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.11%20Clover.zip
-      * 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.12%20Clover.zip
-    + Sources Tool: Hackintosh Vietnam Tool V1.97 (if you install OS X 10.10 or 10.11, not working on 10.12)
-    + 30 minutes to setup or higher
-    + A PC run mac OS or virtual machine run on Windows 7 or higher
+- Sources Clover: 
+  + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.10%20Clover.zip
+  + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.11%20Clover.zip
+  + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.12%20Clover.zip
+- Sources Tool: Hackintosh Vietnam Tool V1.97 (if you install OS X 10.10 or 10.11, not working on 10.12)
+- 30 minutes to setup or higher
+- A PC run mac OS or virtual machine run on Windows 7 or higher
     
 ...............................................:Install:...............................................
-
-    - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
-    - Open Command Prompt via Aministrator access and typing.
-    (
+- Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
+- Open Command Prompt via Aministrator access and typing.
+   (
       + diskpart
       + list disk (please choose your HDD you want install macOS)
       + sel disk 0 (change 0 to your HDD on list)

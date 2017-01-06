@@ -2,6 +2,7 @@
 Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 
 ...............................................:System:...............................................
+
     - Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
     - Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
     - Hard disk : HDD Seagate 500GB
@@ -17,6 +18,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
     - Optical Drive: Super-Multi DVD (Optional).
     
 ...............................................:Status:...............................................
+
   - Status Working:
     + Graphics (Intel HD4000)
     + Audio
@@ -29,6 +31,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
     + Fn Hotkeys
     + USB works
     + Disable turbo boost on battery (if neccessary)
+    
 - Status not working:
     + GT610M Graphics
     + Realtek CardReader
@@ -36,6 +39,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
     + WIFI (If not replaced)
     
 ...............................................:Prepair:...............................................
+
     + One USB 3.0 with 8Gb or higher
     + Sources OS: http://osx.vn/threads/tong-hop-link-download-macos-10-4-10-12-2-orginal-tu-mac-app-store.286
     + Sources code Terminal: 
@@ -52,6 +56,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
     + A PC run mac OS or virtual machine run on Windows 7 or higher
     
 ...............................................:Install:...............................................
+
     - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
     - Open Command Prompt via Aministrator access and typing.(
       * diskpart

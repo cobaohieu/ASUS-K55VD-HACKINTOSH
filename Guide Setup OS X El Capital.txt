@@ -1,0 +1,10 @@
+mkdir /tmp/install_esd
+hdiutil attach "/Applications/Install OS X El Capital.app/Contents/SharedSupport/InstallESD.dmg" -readonly -mountpoint /tmp/install_esd -nobrowse
+sudo asr restore -source /tmp/install_esd/BaseSystem.dmg -target /Volumes/UsbName -erase -format HFS+ -noprompt -noverify
+diskutil rename "OS X Base System" UsbName
+rm /Volumes/UsbName/System/Installation/Packages
+cp -a /tmp/install_esd/Packages /Volumes/UsbName/System/Installation
+cp -a /tmp/install_esd/BaseSystem.dmg /tmp/install_esd/BaseSystem.chunklist /tmp/install_esd/AppleDiagnostics.dmg /tmp/install_esd/AppleDiagnostics.chunklist /Volumes/UsbName
+hdiutil detach /tmp/install_esd
+rmdir /tmp/install_esd
+exit

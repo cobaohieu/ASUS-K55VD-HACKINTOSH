@@ -48,7 +48,9 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
   + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.10%20Clover.zip
   + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.11%20Clover.zip
   + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.12%20Clover.zip
-- Sources Tool: Hackintosh Vietnam Tool V1.97 (if you install OS X 10.10 or 10.11, not working on 10.12)
+- Sources Tool: 
+  + Hackintosh Vietnam Tool V1.97 (if you install OS X 10.10 or 10.11, not working on 10.12)
+  + Link download: https://drive.google.com/file/d/0B_rOF-XuryyyOTk5TjdqLUhRS28/view?usp=sharing
 - 30 minutes to setup or higher
 - A PC run mac OS or virtual machine run on Windows 7 or higher
     

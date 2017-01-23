@@ -21,7 +21,8 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
   + Graphics (Intel HD4000)
   + Audio
   + WIFI (Replaced)
-  + LAN
+  + Webcam
+  + LAN
   + HDMI
   + VGA work but not good
   + Sleep, Processor Speedsteps and Native power management.
@@ -33,8 +34,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 - Status not working:
   + GT610M Graphics
   + Realtek CardReader
-  + Webcam
-  + WIFI (If not replaced)
+  + WIFI (If not replaced)
     
 ...............................................:Prepair:...............................................
 - One USB 3.0 with 8Gb or higher

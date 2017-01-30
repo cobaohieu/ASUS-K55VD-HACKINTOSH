@@ -20,7 +20,8 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 - Status Working:
   + Graphics (Intel HD4000)
   + Audio
-  + WIFI (Replaced)
+  + WIFI (Replaced 9285)
+  + Bluetooth (If you don't replace wifi please remove kext "IOath3kfrmwr.kext" on Clover > Kext > Other)
   + Webcam
   + LAN
   + HDMI
@@ -40,14 +41,14 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 - One USB 3.0 with 8Gb or higher
 - Sources OS: http://osx.vn/threads/tong-hop-link-download-macos-10-4-10-12-2-orginal-tu-mac-app-store.286
 - Sources code Terminal: 
-  + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20OS%20X%20Yosemite.txt 
-  + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20OS%20X%20El%20Capital.txt 
-  + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide%20Setup%20macOS%20Sierra.txt
+  + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide_Setup_OS_X_Yosemite.txt 
+  + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide_Setup_OS_X_El_Capital.txt 
+  + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide_Setup_macOS_Sierra.txt
   + (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName to your usb name)
 - Sources Clover: 
-  + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.10%20Clover.zip
-  + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.11%20Clover.zip
-  + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/10.12%20Clover.zip
+  + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Clover_10.10_17-01-30.zip
+  + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Clover_10.11_17-01-30.zip
+  + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Clover_10.12_17-01-30.zip
 - Sources Tool: 
   + Hackintosh Vietnam Tool V1.97 (if you install OS X 10.10 or 10.11, not working on 10.12)
   + Link download: https://drive.google.com/file/d/0B_rOF-XuryyyOTk5TjdqLUhRS28/view?usp=sharing
@@ -62,7 +63,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
   + sel disk 0 (change 0 to your HDD on list)
   + create part efi size=504 (if no empty partition please delete about 50Gb)
   + format fs=fat32 quick label="EFI"
-  +create part primary size=48500 (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500)
+  +create part primary size=48500 (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500, with mac 48,50Gb = 50Gb)
   + format fs=exfat quick label="Macintosh HD"
   + Done. 
 - Plug in usb to usb 3.0 port and Format usb with 2 partition: 1Gb for "ESP" with Fat and the rest Gb for UsbName with HFS+ (notes: Format with GUID Partition MAP)
@@ -89,5 +90,6 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 - 7. Tonymacx86.com http://tonymacx86.com
 - 8. Macintosh-VN http://macintosh.vn
 - 9. OSX.vn: http://osx.vn
+
 ...........................................Thanks for visting and watching..........................................
 

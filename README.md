@@ -10,7 +10,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 - LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
 - Audio : Realtek ALC270
 - USB 3.0 : Intel 7series/210 USB 3.0
- - Touchpad : Elan Touchpad
+- Touchpad : Elan Touchpad
 - Webcam : 0.3 Web Camera
 - Card reader: Realtek PCI Express not work
 - Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
@@ -22,8 +22,8 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
   - Audio
   - WIFI (Replaced 9285) 
   - Bluetooth (If you don't replace wifi please remove "IOath3kfrmwr.kext" on Clover>Kext>Other) 
-  - Webcam 
-  - LAN 
+  - Webcam
+  - LAN
   - HDMI
   - VGA work but not good
   - Sleep, Processor Speedsteps and Native power management.

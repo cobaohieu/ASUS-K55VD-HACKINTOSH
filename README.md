@@ -22,7 +22,8 @@ Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
   + Audio
   + WIFI (Replaced 9285)
   + Bluetooth 
-  (If you don't replace wifi please remove kext "IOath3kfrmwr.kext" on Clover > Kext > Other)
+  (If you don't replace wifi please remove "IOath3kfrmwr.kext" on Clover>Kext>Other)
+  
   + Webcam
   + LAN
   + HDMI

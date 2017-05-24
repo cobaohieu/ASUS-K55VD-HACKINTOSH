@@ -1,7 +1,7 @@
 # ASUS-K55VD-HACKINTOSH install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra
 Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 
-<img class="alignnone size-full wp-image-486 alignright" src="https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg" alt="" width="1920" height="1080" />
+<img class="alignnone size-full wp-image-486 alignright" src="https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg" alt="" width="960" height="539"/>
 <strong>Mọi người thông cảm do hiện tại cáp quang đang đứt và một số việc học hành còn dang dở, và một macOS 10.12.4 mới cập nhật nên mình sẽ cập nhật thường xuyên thêm</strong>
 <h3 style="text-align: center">..............................................................................................</h3>
 <h3 style="text-align: center"><strong>Vietnamese Ver: Updated soon</strong>
@@ -71,7 +71,7 @@ Hướng dẫn để cài đặt macOS Sierra 10.12.4 trên Laptop ASUS K55VD.</
 
 Khởi động lại và xem kết quả và test lại toàn bộ hệ thống xem đã hoàn chỉnh chưa?
 
-<img class="alignnone size-full wp-image-562" src="https://viethackintosh.com/wp-content/uploads/2017/03/Screen-Shot-2017-04-04-at-3.21.46-PM.png" alt="" width="1920" height="1080" />
+<img class="alignnone size-full wp-image-562" src="https://viethackintosh.com/wp-content/uploads/2017/03/Screen-Shot-2017-04-04-at-3.21.46-PM.png" alt="" width="960" height="539"/>
 
 ◦ Lệnh cho phép các app không rõ nguồn gốc chạy được trên mac
 sudo spctl —master-disable

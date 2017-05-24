@@ -1,6 +1,84 @@
 # ASUS-K55VD-HACKINTOSH install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra
 Make Laptop ASUS K55VD like Mac Book Pro 2013 run real macOS.
 
+<img class="alignnone size-full wp-image-486 alignright" src="https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg" alt="" width="1920" height="1080" />
+<strong>Mọi người thông cảm do hiện tại cáp quang đang đứt và một số việc học hành còn dang dở, và một macOS 10.12.4 mới cập nhật nên mình sẽ cập nhật thường xuyên thêm</strong>
+<h3 style="text-align: center">..............................................................................................</h3>
+<h3 style="text-align: center"><strong>Vietnamese Ver: Updated soon</strong>
+Hướng dẫn để cài đặt macOS Sierra 10.12.4 trên Laptop ASUS K55VD.</h3>
+<strong>Cấu hình cơ bản:</strong>
+◦ Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
+◦ Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
+◦ Hard disk : HDD Hitachi 500GB
+◦ RAM : 6GB DDR3 / bus 1600
+◦ Wifi + Buetooth: Qualcomm Atheros AR9485WB-EG
+◦ LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
+◦ Audio : Realtek ALC270
+◦ USB 3.0 : Intel 7 series/210 USB 3.0
+◦ Touchpad : Elan Touchpad
+◦ Webcam : 0.3 Web Camera
+◦ Card reader : Realtek PCI Express not work
+◦ Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
+◦ Optical Drive: Super-Multi DVD (Optional)
+
+<strong>Các thành phần hoạt động tốt:</strong>
+◦ Graphics (Intel HD4000)
+◦ Audio
+◦ WIFI + Bluetooth
+◦ LAN
+◦ Webcam
+◦ HDMI
+◦ VGA
+◦ Sleep, Processor Speedsteps and Native power management.
+◦ Trackpad cảm ứng đa điểm 4 ngón
+◦ Fn Hotkeys
+◦ USB works
+◦ Realtek CardReader
+◦ Disable turbo boost on battery
+
+<strong>Các thành phần không hoạt động:</strong>
+◦ GT610M Graphics
+
+<strong>Yêu cầu:</strong>
+◦ BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.
+◦ Một USB 3.0 8Gb hoặc cao hơn.
+◦ Sources OS link download: <a href="https://www.fshare.vn/file/D44W27KYXHD6" target="_blank">Fshare</a>
+◦ Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): <a href="https://drive.google.com/file/d/0B_rOF-XuryyyOWVMME8zMUFES1E/view?usp=sharing" target="_blank">Google Drive</a>
+◦ Kext Network active Wi-Fi 9485 &amp; Graphics active Night Shift: <a href="https://drive.google.com/file/d/0B_rOF-XuryyyMDAzQTZIS0dJbTg/view?usp=sharing" target="_blank">Google Drive</a>
+◦ Folder to active Night Shift: <a href="https://drive.google.com/file/d/0B_rOF-XuryyyU1dmeUp4RjZTYnc/view?usp=sharing" target="_blank">Google Drive</a>
+◦ Folder Tools &amp; Software: <a href="https://drive.google.com/drive/folders/0B_rOF-XuryyyR2c0STJKV3dwanc?usp=sharing" target="_blank">Google Drive</a>
+◦ Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Cvad-mac.narod.ru/</a>
+◦ Link Download MiniTool Partition Wizard Free Edition 10.2: <a href="https://download3.minitool.com/pw10/pw10-free.exe" target="_blank">Partitionwizard.com</a>
+◦ Folder Chứa các lệnh Terminal Prompt: <a href="https://drive.google.com/drive/folders/0B_rOF-XuryyyUkN6aDBuY0p1MXM?usp=sharing" target="_blank">Google Drive</a>
+◦ 30 – 40 phút cài đặt.
+◦ Mình cài trên HDD chuẩn EFI nhé
+◦ Một Laptop chạy Windows 7 hoặc cao hơn
+
+<strong>Phân vùng ổ cứng hệ thống</strong>
+[embed]https://www.youtube.com/watch?v=uPbyxqggrA8&amp;t[/embed]
+
+◦ Tạo bộ cài đặt trên USB
+[embed]https://www.youtube.com/watch?v=P_O1PTPiQok&amp;t=2s[/embed]
+
+
+◦ Cài đặt macOS trên HDD:
+[embed]https://www.youtube.com/watch?v=P930Yx31GrU&amp;t=131s[/embed]
+
+
+◦ Hoàn thiện máy sau cài đặt:
+[embed]https://www.youtube.com/watch?v=XasTaBiUNWk[/embed]
+
+
+Khởi động lại và xem kết quả và test lại toàn bộ hệ thống xem đã hoàn chỉnh chưa?
+
+<img class="alignnone size-full wp-image-562" src="https://viethackintosh.com/wp-content/uploads/2017/03/Screen-Shot-2017-04-04-at-3.21.46-PM.png" alt="" width="1920" height="1080" />
+
+◦ Lệnh cho phép các app không rõ nguồn gốc chạy được trên mac
+sudo spctl —master-disable
+◦ Lệnh cài đặt Xcode
+xcode-select —install
+
+
 ...............................................:System:...............................................
 - Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
 - Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM

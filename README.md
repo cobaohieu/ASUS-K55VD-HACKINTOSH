@@ -55,14 +55,14 @@ Hướng dẫn để cài đặt macOS Sierra 10.12.4 trên Laptop ASUS K55VD.</
 ◦ Một Laptop chạy Windows 7 hoặc cao hơn
 
 <strong>Phân vùng ổ cứng hệ thống</strong>
-[embed]https://www.youtube.com/watch?v=uPbyxqggrA8&amp;t[/embed]
+[embed]https://www.youtube.com/watch?v=uPbyxqggrA8[/embed]
 
 ◦ Tạo bộ cài đặt trên USB
-[embed]https://www.youtube.com/watch?v=P_O1PTPiQok&amp;t=2s[/embed]
+[embed]https://www.youtube.com/watch?v=P_O1PTPiQok[/embed]
 
 
 ◦ Cài đặt macOS trên HDD:
-[embed]https://www.youtube.com/watch?v=P930Yx31GrU&amp;t=131s[/embed]
+[embed]https://www.youtube.com/watch?v=P930Yx31GrU[/embed]
 
 
 ◦ Hoàn thiện máy sau cài đặt:

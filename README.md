@@ -19,7 +19,7 @@ Hướng dẫn để cài đặt macOS Sierra 10.12.4 trên Laptop ASUS K55VD.</
 ◦ Webcam : 0.3 Web Camera
 ◦ Card reader : Realtek PCI Express not work
 ◦ Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
-◦ Optical Drive: Super-Multi DVD (Optional)
+◦ Optical Drive: Super-Multi DVD (Optional) 
 
 <strong>Các thành phần hoạt động tốt:</strong>
 ◦ Graphics (Intel HD4000)

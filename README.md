@@ -45,7 +45,6 @@ Hướng dẫn để cài đặt macOS Sierra 10.12.4 trên Laptop ASUS K55VD.</
 ◦ Sources OS link download: <a href="https://www.fshare.vn/file/AH8IJYXJJVGD" target="_blank">Fshare</a>
 ◦ Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): <a href="https://github.com/southern21/ASUS-K55VD-HACKINTOSH" target="_blank">GitHub</a>
 ◦ Kext Network active Wi-Fi 9485 &amp; Graphics active Night Shift: <a href="https://github.com/southern21/ASUS-K55VD-HACKINTOSH" target="_blank">GitHub</a>
-◦ Folder to active Night Shift: <a href="https://drive.google.com/file/d/0B_rOF-XuryyyU1dmeUp4RjZTYnc/view?usp=sharing" target="_blank">Google Drive</a>
 ◦ Folder Tools &amp; Software: <a href="https://drive.google.com/drive/folders/0B_rOF-XuryyyR2c0STJKV3dwanc?usp=sharing" target="_blank">Google Drive</a>
 ◦ Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Cvad-mac.narod.ru/</a>
 ◦ Link Download MiniTool Partition Wizard Free Edition 10.2: <a href="https://download3.minitool.com/pw10/pw10-free.exe" target="_blank">Partitionwizard.com</a>
@@ -84,7 +83,7 @@ xcode-select —install
 - Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
 - Hard disk : HDD Seagate 500GB
 - RAM : 6GB DDR3 / bus 1600
-- Wifi : Qualcomm Atheros AR9485WB-EG not work (Replaced by: AR9285)
+- Wifi : Qualcomm Atheros AR9485WB-EG
 - LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
 - Audio : Realtek ALC270
 - USB 3.0 : Intel 7series/210 USB 3.0
@@ -98,8 +97,8 @@ xcode-select —install
 - Status Working:
   - Graphics (Intel HD4000)
   - Audio
-  - WIFI (Replaced 9285) 
-  - Bluetooth (If you don't replace wifi please remove "IOath3kfrmwr.kext" on Clover>Kext>Other) 
+  - WIFI
+  - Bluetooth
   - Webcam
   - LAN
   - HDMI
@@ -113,7 +112,6 @@ xcode-select —install
 - Status not working:
   + GT610M Graphics
   + Realtek CardReader
-  + WIFI (If not replaced)
     
 ...............................................:Prepair:...............................................
 - One USB 3.0 with 8Gb or higher

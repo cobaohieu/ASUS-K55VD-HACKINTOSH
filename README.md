@@ -42,14 +42,14 @@ Hướng dẫn để cài đặt macOS Sierra 10.12.4 trên Laptop ASUS K55VD.</
 <strong>Yêu cầu:</strong>
 ◦ BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.
 ◦ Một USB 3.0 8Gb hoặc cao hơn.
-◦ Sources OS link download: <a href="https://www.fshare.vn/file/D44W27KYXHD6" target="_blank">Fshare</a>
-◦ Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): <a href="https://drive.google.com/file/d/0B_rOF-XuryyyOWVMME8zMUFES1E/view?usp=sharing" target="_blank">Google Drive</a>
-◦ Kext Network active Wi-Fi 9485 &amp; Graphics active Night Shift: <a href="https://drive.google.com/file/d/0B_rOF-XuryyyMDAzQTZIS0dJbTg/view?usp=sharing" target="_blank">Google Drive</a>
+◦ Sources OS link download: <a href="https://www.fshare.vn/file/AH8IJYXJJVGD" target="_blank">Fshare</a>
+◦ Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): <a href="https://github.com/southern21/ASUS-K55VD-HACKINTOSH" target="_blank">GitHub</a>
+◦ Kext Network active Wi-Fi 9485 &amp; Graphics active Night Shift: <a href="https://github.com/southern21/ASUS-K55VD-HACKINTOSH" target="_blank">GitHub</a>
 ◦ Folder to active Night Shift: <a href="https://drive.google.com/file/d/0B_rOF-XuryyyU1dmeUp4RjZTYnc/view?usp=sharing" target="_blank">Google Drive</a>
 ◦ Folder Tools &amp; Software: <a href="https://drive.google.com/drive/folders/0B_rOF-XuryyyR2c0STJKV3dwanc?usp=sharing" target="_blank">Google Drive</a>
 ◦ Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Cvad-mac.narod.ru/</a>
 ◦ Link Download MiniTool Partition Wizard Free Edition 10.2: <a href="https://download3.minitool.com/pw10/pw10-free.exe" target="_blank">Partitionwizard.com</a>
-◦ Folder Chứa các lệnh Terminal Prompt: <a href="https://drive.google.com/drive/folders/0B_rOF-XuryyyUkN6aDBuY0p1MXM?usp=sharing" target="_blank">Google Drive</a>
+◦ Folder Chứa các lệnh Terminal Prompt: <a href="https://github.com/southern21/ASUS-K55VD-HACKINTOSH" target="_blank">GitHub</a>
 ◦ 30 – 40 phút cài đặt.
 ◦ Mình cài trên HDD chuẩn EFI nhé
 ◦ Một Laptop chạy Windows 7 hoặc cao hơn
@@ -168,6 +168,8 @@ xcode-select —install
 - 7. Tonymacx86.com http://tonymacx86.com
 - 8. Macintosh-VN http://macintosh.vn
 - 9. OSX.vn: http://osx.vn
+- 10. Viethackintosh: https://viethackintosh.com/
+- 11. Weloveapple: https://weloveapple.vn/
 
 ...........................................Thanks for visting and watching..........................................
 <img class="alignnone size-full wp-image-487" src="https://viethackintosh.com/wp-content/uploads/2017/03/14470386_904489812989977_5266119457662626266_n.jpg" alt="" width="960" height="539" />

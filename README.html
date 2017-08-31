@@ -131,7 +131,6 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 
 <img class="alignnone size-full wp-image-562" src="https://viethackintosh.com/wp-content/uploads/2017/03/Screen-Shot-2017-04-04-at-3.21.46-PM.png" alt="" width="960" height="539"/>
 <br>
-<br>
 ◦ Lệnh cho phép các app không rõ nguồn gốc chạy được trên mac
 <br>
 	sudo spctl —master-disable
@@ -139,7 +138,6 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 ◦ Lệnh cài đặt Xcode
 <br>
 	xcode-select —install
-<br>
 <br>
 ...............................................:System:...............................................
 <br>
@@ -168,7 +166,6 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 - Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
 <br>
 - Optical Drive: Super-Multi DVD (Optional).
-<br>
 <br>
 ...............................................:Status:...............................................
 <br>
@@ -202,11 +199,9 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 <br>
   + Realtek CardReader
 <br>
-  
 - Status not working:
 <br>
   + GT610M Graphics
-<br>
 <br> 
 ...............................................:Prepair:...............................................
 <br>

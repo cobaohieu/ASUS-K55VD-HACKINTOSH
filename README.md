@@ -54,7 +54,6 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 	Các thành phần hoạt động tốt:
 </strong>
 <br>
-<br>
 ◦ Graphics (Intel HD4000)
 <br>
 ◦ Audio
@@ -85,6 +84,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <strong>
 	Các thành phần không hoạt động:
 </strong>
+<br>
 <br>
 ◦ GT610M Graphics
 

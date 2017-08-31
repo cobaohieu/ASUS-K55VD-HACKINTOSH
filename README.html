@@ -127,10 +127,13 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 ◦ Hoàn thiện máy sau cài đặt: https://www.youtube.com/watch?v=XasTaBiUNWk
 <br>
-Khởi động lại và xem kết quả và test lại toàn bộ hệ thống xem đã hoàn chỉnh chưa?
-
-<img class="alignnone size-full wp-image-562" src="https://viethackintosh.com/wp-content/uploads/2017/03/Screen-Shot-2017-04-04-at-3.21.46-PM.png" alt="" width="960" height="539"/>
 <br>
+<strong>
+Khởi động lại và xem kết quả và test lại toàn bộ hệ thống xem đã hoàn chỉnh chưa?
+</strong>
+<br><br>
+<img class="alignnone size-full wp-image-562" src="https://viethackintosh.com/wp-content/uploads/2017/03/Screen-Shot-2017-04-04-at-3.21.46-PM.png" alt="" width="960" height="539"/>
+<br><br>
 ◦ Lệnh cho phép các app không rõ nguồn gốc chạy được trên mac
 <br>
 	sudo spctl —master-disable
@@ -140,73 +143,88 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 	xcode-select —install
 <br>
 <br>
-...............................................:System:...............................................
+<strong>
+	...............................................:System:...............................................
+</strong>
 <br>
-- Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
+<strong>
+	- Specifications:
+</strong>
 <br>
-- Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
++ Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
 <br>
-- Hard disk : HDD Seagate 500GB
++ Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
 <br>
-- RAM : 6GB DDR3 / bus 1600
++ Hard disk : HDD Seagate 500GB
 <br>
-- Wifi : Qualcomm Atheros AR9485WB-EG
++ RAM : 6GB DDR3 / bus 1600
 <br>
-- LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
++ Wifi : Qualcomm Atheros AR9485WB-EG
 <br>
-- Audio : Realtek ALC270
++ LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
 <br>
-- USB 3.0 : Intel 7series/210 USB 3.0
++ Audio : Realtek ALC270
 <br>
-- Touchpad : Elan Touchpad
++ USB 3.0 : Intel 7series/210 USB 3.0
 <br>
-- Webcam : 0.3 Web Camera
++ Touchpad : Elan Touchpad
 <br>
-- Card reader: Realtek PCI Express
++ Webcam : 0.3 Web Camera
 <br>
-- Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
++ Card reader: Realtek PCI Express
 <br>
-- Optical Drive: Super-Multi DVD (Optional).
++ Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
+<br>
++ Optical Drive: Super-Multi DVD (Optional).
 <br>
 <br>
-...............................................:Status:...............................................
+<strong>
+	...............................................:Status:...............................................
+</strong>
 <br>
+<strong>
 - Status Working:
+</strong>
 <br>
-  - Graphics (Intel HD4000)
+  + Graphics (Intel HD4000)
 <br>
-  - Audio
+  + Audio
 <br>
-  - WIFI
+  + WIFI
 <br>
-  - Bluetooth
+  + Bluetooth
 <br>
-  - Webcam
+  + Webcam
 <br>
-  - LAN
+  + LAN
 <br>
-  - HDMI
+  + HDMI
 <br>
-  - VGA work but not good
+  + VGA work but not good
 <br>
-  - Sleep, Processor Speedsteps and Native power management.
+  + Sleep, Processor Speedsteps and Native power management.
 <br>
-  - Trackpad
+  + Trackpad
 <br>
-  - Fn Hotkeys
+  + Fn Hotkeys
 <br>
-  - USB works
+  + USB works
 <br>
-  - Disable turbo boost on battery (if neccessary)
+  + Disable turbo boost on battery (if neccessary)
 <br>
   + Realtek CardReader
 <br>
+<br>
+<strong>
 - Status not working:
+</strong>
 <br>
   + GT610M Graphics
 <br> 
 <br>
-...............................................:Prepair:...............................................
+<strong>
+	...............................................:Prepair:...............................................
+</strong>
 <br>
 - One USB 3.0 with 8Gb or higher
 <br>
@@ -240,7 +258,9 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 - A PC run mac OS or virtual machine run on Windows 7 or higher
 <br>
 <br> 
-...............................................:Install:...............................................
+<strong>
+	...............................................:Install:...............................................
+</strong>
 <br>
 - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
 <br>
@@ -301,7 +321,9 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
     - Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
 <br>
 <br>
-.............................................Thanks for sites and guys.............................................
+<strong>
+	.............................................Thanks for sites and guys.............................................
+</strong>
 <br>
 - 1. BetaDroid: https://github.com/BetaDroid
 <br>
@@ -326,6 +348,8 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 - 11. Weloveapple: https://weloveapple.vn/
 <br>
 <br>
-...........................................Thanks for visting and watching..........................................
+<strong>
+	...........................................Thanks for visting and watching..........................................
+</strong>
 <img class="alignnone size-full wp-image-487" src="https://viethackintosh.com/wp-content/uploads/2017/03/14470386_904489812989977_5266119457662626266_n.jpg" alt="" width="960" height="539" />
 

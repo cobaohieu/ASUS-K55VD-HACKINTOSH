@@ -116,6 +116,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 ◦ Một Laptop chạy Windows 7 hoặc cao hơn
 <br>
+<br>
 
 <strong>
 	Phân vùng ổ cứng hệ thống

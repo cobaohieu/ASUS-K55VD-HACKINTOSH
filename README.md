@@ -48,7 +48,6 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 ◦ Optical Drive: Super-Multi DVD (Optional) 
 <br>
-
 <br>
 <strong>
 	Các thành phần hoạt động tốt:
@@ -79,7 +78,6 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 ◦ Realtek CardReader
 <br>
 ◦ Disable turbo boost on battery
-
 <br>
 <br>
 <strong>
@@ -87,7 +85,8 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 </strong>
 <br>
 ◦ GT610M Graphics
-
+<br>
+<br>
 <strong>
 	Yêu cầu:
 </strong>
@@ -117,41 +116,21 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 ◦ Một Laptop chạy Windows 7 hoặc cao hơn
 <br>
 <br>
-
 <strong>
 	Phân vùng ổ cứng hệ thống
 </strong>
+<br>https://www.youtube.com/watch?v=uPbyxqggrA8
 <br>
-[embed]
-	https://www.youtube.com/watch?v=uPbyxqggrA8
-[/embed]
-
+◦ Tạo bộ cài đặt trên USB: https://www.youtube.com/watch?v=P_O1PTPiQok
 <br>
-◦ Tạo bộ cài đặt trên USB
-[embed]
-	https://www.youtube.com/watch?v=P_O1PTPiQok
-[/embed]
-
-
+◦ Cài đặt macOS trên HDD: https://www.youtube.com/watch?v=P930Yx31GrU
 <br>
-◦ Cài đặt macOS trên HDD:
-[embed]
-	https://www.youtube.com/watch?v=P930Yx31GrU
-[/embed]
-
-
-<br>
-◦ Hoàn thiện máy sau cài đặt:
-[embed]
-	https://www.youtube.com/watch?v=XasTaBiUNWk
-[/embed]
-
-
+◦ Hoàn thiện máy sau cài đặt: https://www.youtube.com/watch?v=XasTaBiUNWk
 <br>
 Khởi động lại và xem kết quả và test lại toàn bộ hệ thống xem đã hoàn chỉnh chưa?
 
 <img class="alignnone size-full wp-image-562" src="https://viethackintosh.com/wp-content/uploads/2017/03/Screen-Shot-2017-04-04-at-3.21.46-PM.png" alt="" width="960" height="539"/>
-
+<br>
 <br>
 ◦ Lệnh cho phép các app không rõ nguồn gốc chạy được trên mac
 <br>
@@ -161,8 +140,7 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 <br>
 	xcode-select —install
 <br>
-
-
+<br>
 ...............................................:System:...............................................
 <br>
 - Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
@@ -191,7 +169,7 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 <br>
 - Optical Drive: Super-Multi DVD (Optional).
 <br>
-    
+<br>
 ...............................................:Status:...............................................
 <br>
 - Status Working:
@@ -229,8 +207,9 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 <br>
   + GT610M Graphics
 <br>
-    
+<br> 
 ...............................................:Prepair:...............................................
+<br>
 - One USB 3.0 with 8Gb or higher
 <br>
 - Sources OS: http://osx.vn/threads/tong-hop-link-download-macos-10-4-10-12-2-orginal-tu-mac-app-store.286
@@ -262,7 +241,7 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 <br>
 - A PC run mac OS or virtual machine run on Windows 7 or higher
 <br>
-    
+<br> 
 ...............................................:Install:...............................................
 <br>
 - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
@@ -323,20 +302,32 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 <br>
     - Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
 <br>
-    
+<br>
 .............................................Thanks for sites and guys.............................................
+<br>
 - 1. BetaDroid: https://github.com/BetaDroid
+<br>
 - 2. RehabMan: https://github.com/RehabMan
+<br>
 - 3. vit9696: https://github.com/vit9696
+<br>
 - 4. Github: https://github.com
+<br>
 - 5. Google: https://youtube.com/southernvevo
+<br>
 - 6. Facebook: https://www.facebook.com/southernvevo
+<br>
 - 7. Tonymacx86.com http://tonymacx86.com
+<br>
 - 8. Macintosh-VN http://macintosh.vn
+<br>
 - 9. OSX.vn: http://osx.vn
+<br>
 - 10. Viethackintosh: https://viethackintosh.com/
+<br>
 - 11. Weloveapple: https://weloveapple.vn/
-
+<br>
+<br>
 ...........................................Thanks for visting and watching..........................................
 <img class="alignnone size-full wp-image-487" src="https://viethackintosh.com/wp-content/uploads/2017/03/14470386_904489812989977_5266119457662626266_n.jpg" alt="" width="960" height="539" />
 

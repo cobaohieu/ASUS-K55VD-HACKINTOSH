@@ -49,6 +49,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 ◦ Optical Drive: Super-Multi DVD (Optional) 
 <br>
 
+<br>
 <strong>
 	Các thành phần hoạt động tốt:
 </strong>

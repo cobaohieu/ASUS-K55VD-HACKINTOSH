@@ -12,6 +12,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 	<strong>
 		Vietnamese Ver: Updated soon
 	</strong>
+	<br>
 	Hướng dẫn để cài đặt macOS Sierra 10.12.4 trên Laptop ASUS K55VD.
 </h3>
 <strong>

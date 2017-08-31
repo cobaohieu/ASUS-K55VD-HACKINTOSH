@@ -86,7 +86,6 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 	Các thành phần không hoạt động:
 </strong>
 <br>
-<br>
 ◦ GT610M Graphics
 
 <strong>

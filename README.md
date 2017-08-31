@@ -81,6 +81,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 ◦ Disable turbo boost on battery
 
 <br>
+<br>
 <strong>
 	Các thành phần không hoạt động:
 </strong>

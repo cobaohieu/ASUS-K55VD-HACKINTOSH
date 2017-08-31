@@ -52,10 +52,10 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 	Các thành phần hoạt động tốt:
 </strong>
 <br>
+<br>
 ◦ Graphics (Intel HD4000)
 <br>
 ◦ Audio
-<br>
 <br>
 ◦ WIFI + Bluetooth
 <br>
@@ -231,7 +231,6 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 - One USB 3.0 with 8Gb or higher
 <br>
 - Sources OS: http://osx.vn/threads/tong-hop-link-download-macos-10-4-10-12-2-orginal-tu-mac-app-store.286
-<br>
 <br>
 - Sources code Terminal: 
   + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide_Setup_OS_X_Yosemite.txt 

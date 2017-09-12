@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.samodelkin.USBHubPowerFix</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>UsbHubPowerFix</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>IOKitPersonalities</key>
+	<dict>
+		<key>Asmedia USB Hub</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
+			<key>IOClass</key>
+			<string>AppleUSBHostMergeProperties</string>
+			<key>IOProviderClass</key>
+			<string>IOUSBHostDevice</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>kUSBConfigurationCurrentOverride</key>
+				<integer>500</integer>
+				<key>kUSBHubPortSequenceDelay</key>
+				<integer>100</integer>
+				<key>kUSBSleepPortCurrentLimit</key>
+				<integer>500</integer>
+				<key>kUSBWakePortCurrentLimit</key>
+				<integer>500</integer>
+			</dict>
+			<key>idVendor</key>
+			<integer>7172</integer>
+			<key>idProductArray</key>
+			<array>
+				<integer>8308</integer>
+			</array>
+		</dict>
+		<key>NeoDrive USB Hub</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
+			<key>IOClass</key>
+			<string>AppleUSBHostMergeProperties</string>
+			<key>IOProviderClass</key>
+			<string>IOUSBHostDevice</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>kUSBConfigurationCurrentOverride</key>
+				<integer>500</integer>
+				<key>kUSBHubPortSequenceDelay</key>
+				<integer>100</integer>
+				<key>kUSBSleepPortCurrentLimit</key>
+				<integer>500</integer>
+				<key>kUSBWakePortCurrentLimit</key>
+				<integer>500</integer>
+			</dict>
+			<key>idVendor</key>
+			<integer>2565</integer>
+			<key>idProductArray</key>
+			<array>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</dict>
+	<key>OSBundleLibraries</key>
+	<dict/>
+</dict>
+</plist>

@@ -98,12 +98,6 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>#CustomLogo</key>
-		<string>Apple</string>
-		<key>#Legacy</key>
-		<string>LegacyBiosDefault</string>
-		<key>#XMPDetection</key>
-		<string>Yes</string>
 		<key>Arguments</key>
 		<string>dart=0 darkwake=0 nv_disable=1 kext-dev-mode=1 shikigva=1 slide=0  </string>
 		<key>Debug</key>
@@ -214,12 +208,6 @@
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
-		<key>#AppleIntelCPUPM</key>
-		<true/>
-		<key>#FakeCPUID</key>
-		<string>0x0306A0</string>
-		<key>#KernelCpu</key>
-		<true/>
 		<key>AppleRTC</key>
 		<true/>
 		<key>AsusAICPUPM</key>
@@ -534,10 +522,6 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
-		<key>MLB</key>
-		<string>C027055031THMHDAJ</string>
-		<key>ROM</key>
-		<string>90c1c696b6cc</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -551,8 +535,6 @@
 		<string>Mac-6F01561E16C75D06</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>C027055031THMHDAJ</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -573,58 +555,12 @@
 		<string>Part Component</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
-		<key>Memory</key>
-		<dict>
-			<key>Channels</key>
-			<integer>2</integer>
-			<key>Modules</key>
-			<array>
-				<dict>
-					<key>Frequency</key>
-					<integer>1600</integer>
-					<key>Part</key>
-					<string>SSZ302G08-GGNHC12</string>
-					<key>Serial</key>
-					<string>000000010D030000</string>
-					<key>Size</key>
-					<integer>2048</integer>
-					<key>Slot</key>
-					<integer>0</integer>
-					<key>Type</key>
-					<string>DDR3</string>
-					<key>Vendor</key>
-					<string>8086</string>
-				</dict>
-				<dict>
-					<key>Frequency</key>
-					<integer>1600</integer>
-					<key>Part</key>
-					<string>EBJ40UG8BBU0-GN-F0</string>
-					<key>Serial</key>
-					<string>01000701050F0608</string>
-					<key>Size</key>
-					<integer>4096</integer>
-					<key>Slot</key>
-					<integer>2</integer>
-					<key>Type</key>
-					<string>DDR3</string>
-					<key>Vendor</key>
-					<string>8086</string>
-				</dict>
-			</array>
-			<key>SlotCount</key>
-			<integer>2</integer>
-		</dict>
 		<key>Mobile</key>
 		<true/>
 		<key>PlatformFeature</key>
 		<string>0xFFFF</string>
 		<key>ProductName</key>
 		<string>MacBookPro9,2</string>
-		<key>SerialNumber</key>
-		<string>C02SNJ6AGVC1</string>
-		<key>SmUUID</key>
-		<string>E8EE15C7-9082-400A-B60D-62F3FEAD45F6</string>
 		<key>Trust</key>
 		<false/>
 		<key>Version</key>

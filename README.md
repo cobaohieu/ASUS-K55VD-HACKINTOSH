@@ -1,15 +1,14 @@
-# ASUS-K55VD-HACKINTOSH install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra, macOS High Sierra 10.13
+## ASUS-K55VD-HACKINTOSH install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra, macOS High Sierra 10.13
 Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 
 <img class="alignnone size-full wp-image-486 alignright" src="https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg" alt="" width="960" height="539"/>
 <center>
 <strong>
-Loading Please wait...
+##Loading Please wait...
 <br>
-[English][]
+<a href="/Lang/en.md">English</a>
 
-[Tiếng Việt][]
-
+<a href="/Lang/vi.md">Tiếng Việt</a>
 <br>
 
 </strong>
@@ -46,7 +45,3 @@ Loading Please wait...
 	...........................................Thanks for visting and watching..........................................
 </strong>
 <img class="alignnone size-full wp-image-487" src="https://viethackintosh.com/wp-content/uploads/2017/03/14470386_904489812989977_5266119457662626266_n.jpg" alt="" width="960" height="539" />
-
-
-[English]: <a href="/Lang/en.md"></a>
-[Tiếng Việt]: <a href="/Lang/vi.md"></a>

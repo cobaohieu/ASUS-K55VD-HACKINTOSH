@@ -3,7 +3,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 
 <img class="alignnone size-full wp-image-486 alignright" src="https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg" alt="" width="960" height="539"/>
 <strong>
-	Mọi người thông cảm do hiện tại cáp quang đang đứt và một số việc học hành còn dang dở, và một macOS 10.12.4 mới cập nhật nên mình sẽ cập nhật thường xuyên thêm
+	Mọi người thông cảm do hiện tại cáp quang đang đứt và một số việc học hành còn dang dở, và một macOS 10.12 mới cập nhật nên mình sẽ cập nhật thường xuyên thêm
 </strong>
 <h3 style="text-align: center">
 	..............................................................................................

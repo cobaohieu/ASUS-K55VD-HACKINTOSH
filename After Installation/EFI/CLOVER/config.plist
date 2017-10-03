@@ -216,6 +216,10 @@
 		<false/>
 		<key>DellSMBIOSPatch</key>
 		<false/>
+		<key>ForceKextsToLoad</key>
+		<array>
+			<string>\System\Library\Extensions\IO80211Family.kext</string>
+		</array>
 		<key>KernelHaswellE</key>
 		<false/>
 		<key>KernelLapic</key>
@@ -512,6 +516,22 @@
 				<key>Replace</key>
 				<data>
 				41BE0F000000EB59
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Fix Bluetooth 30 seconds delay patch</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				D4UHAQ==
+				</data>
+				<key>Name</key>
+				<string>IOBluetoothHostControllerUSBTransport</string>
+				<key>Replace</key>
+				<data>
+				D4QHAQ==
 				</data>
 			</dict>
 		</array>

@@ -3,20 +3,19 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 
 <img class="alignnone size-full wp-image-486 alignright" src="https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg" alt="" width="960" height="539"/>
 <center>
-<strong>
-##Loading Please wait...
+
+### Loading Please wait...
 <br>
 <a href="/Lang/en.md">English</a>
 
 <a href="/Lang/vi.md">Tiếng Việt</a>
 <br>
 
-</strong>
 </center>
 <br>
-<strong>
-	.............................................Thanks for sites and guys.............................................
-</strong>
+
+### .............................................Thanks for sites and guys.............................................
+
 <br>
 - 1. BetaDroid: https://github.com/BetaDroid
 <br>
@@ -41,7 +40,6 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 - 11. Weloveapple: https://weloveapple.vn/
 <br>
 <br>
-<strong>
-	...........................................Thanks for visting and watching..........................................
-</strong>
+###...........................................Thanks for visting and watching..........................................
+
 <img class="alignnone size-full wp-image-487" src="https://viethackintosh.com/wp-content/uploads/2017/03/14470386_904489812989977_5266119457662626266_n.jpg" alt="" width="960" height="539" />

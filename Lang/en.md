@@ -70,14 +70,14 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
   + Disable turbo boost on battery (if neccessary)
 <br>
-  + Realtek CardReader
-<br>
 <br>
 <strong>
 - Status not working:
 </strong>
 <br>
   + GT610M Graphics
+<br>
+  + Realtek CardReader
 <br> 
 <br>
 <strong>
@@ -89,27 +89,30 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 - Sources OS: http://osx.vn/threads/tong-hop-link-download-macos-10-4-10-12-2-orginal-tu-mac-app-store.286
 <br>
 - Sources code Terminal: 
-  + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide_Setup_OS_X_Yosemite.txt 
+  + 10.10: <a href="/Command Prompt/Guide Setup OS X Yosemite 10.10.txt">Guide Setup OS X Yosemite 10.10</a>
 <br>
-  + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide_Setup_OS_X_El_Capital.txt 
+  + 10.11: <a href="/Command Prompt/Guide Setup OS X El Capital 10.11.txt">Guide Setup OS X El Capital 10.11</a>
 <br>
-  + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Guide_Setup_macOS_Sierra.txt
+  + 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
+<br>
+- Sources code Terminal: 
+  + 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
 <br>
   + (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName to your usb name)
 <br>
-- Sources Clover: 
+- Sources Clover: (Please choose your version of mac OS or OS X you want to install on my Laptop)
 <br>
-  + 10.10: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Clover_10.10_17-01-30.zip
+  + 10.10: 
 <br>
-  + 10.11: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Clover_10.11_17-01-30.zip
+  + 10.11: 
 <br>
-  + 10.12: https://github.com/southern21/ASUS-K55VD-HACKINTOSH/blob/master/Clover_10.12_17-01-30.zip
+  + 10.12: 
 <br>
-- Sources Tool: 
+  + 10.13: 
 <br>
-  + Hackintosh Vietnam Tool V1.97 (if you install OS X 10.10 or 10.11, not working on 10.12)
+- Sources Sofware: 
 <br>
-  + Link download: https://drive.google.com/file/d/0B_rOF-XuryyyOTk5TjdqLUhRS28/view?usp=sharing
+  + Link download: <a href="/Software">Click here move to folder/a>
 <br>
 - 30 minutes to setup or higher
 <br>
@@ -140,6 +143,8 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
   + Done. 
 <br>
+<a href="https://www.youtube.com/watch?v=uPbyxqggrA8">Click here to view Videos</a>
+<br>
 - Plug in usb to usb 3.0 port and Format usb with 2 partition: 1Gb for "ESP" with Fat and the rest Gb for UsbName with HFS+ (notes: Format with GUID Partition MAP)
 <br>
 - Download source setup and copy it to Application folder
@@ -148,19 +153,15 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 - Open Terminal and copy and paste from first line to final line.
 <br>
--  After it all, copy Clover folder go to Volume Fat of USB like "ESP" 
+-  After it all, copy Clover folder go to Volume Fat32 of EFI
 <br>
 (if can't boot please remove folder APPLE) 
 <br>
 (Or you can copy folder to Volume EFI on HDD and create boot from BIOS)
 <br>
-- Done. Reboot and Press ESC to choose boot 
-<br>
-(please choose first line: "UEFI USB....").
-<br>
 -  After boot please choose Continue > Agree > Agree > choose your volume to install 
 <br>
-	(Look in menu bar and choose Utilities > Disk Utility > Choose your label volume "Macintosh HD" or your volume name and Earse with HFS+) 
+	(Look in menu bar and choose Utilities > Disk Utility > Choose your label volume "Macintosh HD" or your volume name and Earse with HFS+ for HDD or AFPS for SSD) 
 <br>
 	like "Macintosh HD" > Install > Done. Wait for a few minutes your laptop will reboot.
 <br>
@@ -209,5 +210,5 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <strong>
 	...........................................Thanks for visting and watching..........................................
 </strong>
-<img class="alignnone size-full wp-image-487" src="https://viethackintosh.com/wp-content/uploads/2017/03/14470386_904489812989977_5266119457662626266_n.jpg" alt="" width="960" height="539" />
+<img class="alignnone size-full wp-image-487" src="Images/img10131.png" alt="" width="960" height="539" />
 

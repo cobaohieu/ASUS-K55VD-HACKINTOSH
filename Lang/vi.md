@@ -75,8 +75,6 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 ◦ USB works
 <br>
-◦ Realtek CardReader
-<br>
 ◦ Disable turbo boost on battery
 <br>
 <br>
@@ -85,6 +83,8 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 </strong>
 <br>
 ◦ GT610M Graphics
+<br>
+◦ Realtek CardReader
 <br>
 <br>
 <strong>
@@ -173,5 +173,5 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 <strong>
 	...........................................Thanks for visting and watching..........................................
 </strong>
-<img class="alignnone size-full wp-image-487" src="https://viethackintosh.com/wp-content/uploads/2017/03/14470386_904489812989977_5266119457662626266_n.jpg" alt="" width="960" height="539" />
+<img class="alignnone size-full wp-image-487" src="Images/img10131.png" alt="" width="960" height="539" />
 

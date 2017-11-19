@@ -171,27 +171,27 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create your account and set time zone > Diagnostic & Usage > Done.
 <br>
-## - Modify OS
+- Modify OS
 <br>
-    - Generator SSDT for CPU <h4><a href="https://youtu.be/wSqNAt8mHGE">Click here to view Videos</a></h4>
+    + Generator SSDT for CPU <h4><a href="https://youtu.be/wSqNAt8mHGE">Click here to view Videos</a></h4>
 <br>
-    - Fix WiFi woking on mac OS <h4><a href="https://youtu.be/JU6qUJ-MpA0">Click here to view Videos</a></h4>
+    + Fix WiFi woking on mac OS <h4><a href="https://youtu.be/JU6qUJ-MpA0">Click here to view Videos</a></h4>
 <br>
-    - Install Clover EFI Bootloader <h4><a href="https://www.youtube.com/watch?v=W5pLM5bKfaA">Click here to view Videos</a></h4>
+    + Install Clover EFI Bootloader <h4><a href="https://www.youtube.com/watch?v=W5pLM5bKfaA">Click here to view Videos</a></h4>
 <br>
-    - Fix Graphics with Night Mode, True HD display <h4><a href="https://youtu.be/8XlJ8UN94Ho">Click here to view Videos</a></h4>
+    + Fix Graphics with Night Mode, True HD display <h4><a href="https://youtu.be/8XlJ8UN94Ho">Click here to view Videos</a></h4>
 <br>
-    - Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor <h4><a href="https://youtu.be/kXXDElK2EA8">Click here to view Videos</a></h4>
+    + Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor <h4><a href="https://youtu.be/kXXDElK2EA8">Click here to view Videos</a></h4>
 <br>
-    - If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
+    + If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
 <br>
-    - If you not please do it below.
+    + If you not please do it below.
 <br>
-    - Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create. 
+    + Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create. 
 <br>
-	- Please choose it to first boot.
+	  + Please choose it to first boot.
 <br>
-    - Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
+    + Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
 <br>
 <br>
 <strong>

@@ -143,7 +143,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
   + Done. 
 <br>
-<h3><a href="https://www.youtube.com/watch?v=uPbyxqggrA8">Click here to view Videos</a></h3>
+<h4><a href="https://www.youtube.com/watch?v=uPbyxqggrA8">Click here to view Videos</a></h4>
 <br>
 - Plug in usb to usb 3.0 port and Format usb  with HFS+ (notes: Format with GUID Partition MAP)
 <br>
@@ -157,6 +157,8 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 (if can't boot please remove folder APPLE) 
 <br>
+- Make USB Boot on mac OS or OS X or virtual machine run mac OS or OS X <h4><a href="https://youtu.be/wSqNAt8mHGE">Click here to view Videos</a></h4>
+<br>
 (Or you can copy folder to Volume EFI on HDD and create boot from BIOS)
 <br>
 -  After boot please choose Continue > Agree > Agree > choose your volume to install 
@@ -168,6 +170,12 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create your account and set time zone > Diagnostic & Usage > Done.
 <br>
 - Modify OS
+<br>
+    - Generator SSDT for CPU <h4><a href="https://youtu.be/wSqNAt8mHGE">Click here to view Videos</a></h4>
+<br>
+    - Fix WiFi woking on mac OS <h4><a href="https://youtu.be/JU6qUJ-MpA0">Click here to view Videos</a></h4>
+<br>
+    - Install Clover EFI Bootloader <h4><a href="https://www.youtube.com/watch?v=W5pLM5bKfaA">Click here to view Videos</a></h4>
 <br>
     - If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
 <br>

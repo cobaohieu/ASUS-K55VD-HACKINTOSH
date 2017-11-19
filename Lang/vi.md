@@ -99,9 +99,11 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 ◦ Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): <a href="https://github.com/southern21/ASUS-K55VD-HACKINTOSH" target="_blank">GitHub</a>
 <br>
-◦ Kext Network active Wi-Fi 9485 &amp; Graphics active Night Shift: <a href="https://github.com/southern21/ASUS-K55VD-HACKINTOSH" target="_blank">GitHub</a>
+◦ Kext Network active Wi-Fi 9485: <h4>Fix WiFi folder</h4>
 <br>
-◦ Folder Tools &amp; Software: <a href="https://drive.google.com/drive/folders/0B_rOF-XuryyyR2c0STJKV3dwanc?usp=sharing" target="_blank">Google Drive</a>
+◦ Fix Graphics active Night Shift: <h4>Fix screen folder</h4>
+<br>
+◦ Folder Tools &amp; Software: <a href="/Software">Click here move to folder</a>
 <br>
 ◦ Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Cvad-mac.narod.ru/</a>
 <br>

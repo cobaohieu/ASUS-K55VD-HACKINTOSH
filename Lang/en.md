@@ -97,6 +97,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
   + 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
 <br>
 - Sources code Terminal: 
+<br>
   + 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
 <br>
   + (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName to your usb name)

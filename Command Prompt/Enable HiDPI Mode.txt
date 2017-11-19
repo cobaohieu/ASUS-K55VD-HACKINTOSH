@@ -1,0 +1,3 @@
+﻿sudo defaults write /Library/Preferences/com.apple.windowserver.plist DisplayResolutionEnabled -bool true
+
+sudo defaults delete /Library/Preferences/com.apple.windowserver.plist DisplayResolutionEnabled

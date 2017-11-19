@@ -193,6 +193,40 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
     + Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
 <br>
+- Keyboard Function:
+<br>
+Shift + F2: Brightness down
+<br>
+Shift + F3: Brightness up
+<br>
+Shift + F4: Hide/Show launchpad
+<br>
+Shift + F5: Show all windows of app
+<br>
+Shift + F6: Show windows present of app
+<br>
+Shift + F11: Close windows present of app
+<br>
+Shift + F12: Show/ Hide windows present
+<br>
+Fn + F7: Turn of display
+<br>
+Fn + F9: Turn on/off Touchpad
+<br>
+Fn + F10: Mute
+<br>
+Fn + F11: Volume down
+<br>
+Fn + F12: Volume up
+<br>
+Fn + arrow up: Stop media
+<br>
+Fn + arrow down: Pause/Play media
+<br>
+Fn + arrow left: play previous media
+<br>
+Fn + arrow right: play next media
+<br>
 <br>
 <strong>
 	.............................................Thanks for sites and guys.............................................

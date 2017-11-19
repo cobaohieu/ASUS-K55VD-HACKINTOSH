@@ -171,7 +171,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create your account and set time zone > Diagnostic & Usage > Done.
 <br>
-- Modify OS
+## - Modify OS
 <br>
     - Generator SSDT for CPU <h4><a href="https://youtu.be/wSqNAt8mHGE">Click here to view Videos</a></h4>
 <br>

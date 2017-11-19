@@ -193,6 +193,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
     + Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
 <br>
+<br>
 - Keyboard Function:
 <br>
 Shift + F2: Brightness down

@@ -157,7 +157,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 <br>
 (if can't boot please remove folder APPLE) 
 <br>
-- Make USB Boot on mac OS or OS X or virtual machine run mac OS or OS X <h4><a href="https://youtu.be/wSqNAt8mHGE">Click here to view Videos</a></h4>
+- Make USB Boot on mac OS or OS X or virtual machine run mac OS or OS X <h4><a href="https://youtu.be/9GjaZQTLVeQ">Click here to view Videos</a></h4>
 <br>
 (Or you can copy folder to Volume EFI on HDD and create boot from BIOS)
 <br>
@@ -176,6 +176,10 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
     - Fix WiFi woking on mac OS <h4><a href="https://youtu.be/JU6qUJ-MpA0">Click here to view Videos</a></h4>
 <br>
     - Install Clover EFI Bootloader <h4><a href="https://www.youtube.com/watch?v=W5pLM5bKfaA">Click here to view Videos</a></h4>
+<br>
+    - Fix Graphics with Night Mode, True HD display <h4><a href="https://youtu.be/8XlJ8UN94Ho">Click here to view Videos</a></h4>
+<br>
+    - Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor <h4><a href="https://youtu.be/kXXDElK2EA8">Click here to view Videos</a></h4>
 <br>
     - If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
 <br>

@@ -24,6 +24,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 But I have change some thing and added.
 
+
 ## How to install
  - Option 1: Follow the instructions in the video list above.
  - Option 2: Follow guide below:
@@ -31,6 +32,7 @@ But I have change some thing and added.
 <a href="/Lang/en.md">English</a>
 
 <a href="/Lang/vi.md">Tiếng Việt</a>
+
 
 ## Keyboard Function:
  - Shift + F2: Brightness down
@@ -50,8 +52,8 @@ But I have change some thing and added.
  - Fn + arrow left: play previous media
  - Fn + arrow right: play next media
 
-### .............................................Thanks for sites and guys.............................................
 
+### .............................................Thanks for sites and guys.............................................
 
 - BetaDroid: https://github.com/BetaDroid
 - RehabMan: https://github.com/RehabMan
@@ -66,6 +68,7 @@ But I have change some thing and added.
 - Weloveapple: https://weloveapple.vn/
 - Clover EFI Bootloader Team: https://github.com/Clover-EFI-Bootloader/
 - chunnann: https://github.com/chunnann/
+
 ### ...........................................Thanks for visting and watching..........................................
 
 <img class="alignnone size-full wp-image-487" src="Images/img10131.png" alt="" width="960" height="539" />

@@ -43,6 +43,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.
   - Một USB 3.0 8Gb hoặc cao hơn.
   - Sources OS link download: 
+  
+  **&nbsp;** 
 
        https://drive.google.com/drive/folders/0B0uxYlh9Q2lTc0NfbFBYUDI3T2s?usp=sharing
 
@@ -104,7 +106,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
   - Tạo file SSDT hoạt động hiệu năng của CPU.  
 
-  **&nbsp; 
+  **&nbsp;** 
 
      https://www.youtube.com/edit?o=U&video_id=wSqNAt8mHGE
 

@@ -105,7 +105,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
      https://www.youtube.com/edit?o=U&video_id=W5pLM5bKfaA
 
   - Tạo file SSDT hoạt động hiệu năng của CPU.  
-  
+
+  **&nbsp;** 
 
      https://www.youtube.com/edit?o=U&video_id=wSqNAt8mHGE
 

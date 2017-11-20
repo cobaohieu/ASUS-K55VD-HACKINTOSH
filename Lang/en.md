@@ -78,7 +78,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
     - format fs=exfat quick label="Macintosh HD"
     - exit
   - Done. 
-  
+
   **&nbsp;**
 
      https://www.youtube.com/watch?v=uPbyxqggrA8
@@ -96,6 +96,11 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
   -  After boot please choose Continue > Agree > Agree > choose your volume to install | (Look in menu bar and choose Utilities > Disk Utility > Choose your label volume "Macintosh HD" or your volume name and Earse with HFS - for HDD or AFPS for SSD) like "Macintosh HD" > Install > Done. Wait for a few minutes your laptop will reboot.
   - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create  your account and set time zone > Diagnostic & Usage > Done.
+
+  **&nbsp;**
+
+     https://www.youtube.com/watch?v=7gG6liug2w8
+
 
 #### Modify OS
   - Generator SSDT for CPU 

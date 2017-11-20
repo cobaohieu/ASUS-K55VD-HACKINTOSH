@@ -83,38 +83,38 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
   **&nbsp;**
 
-     https://www.youtube.com/watch?v=7gG6liug2w8
+     https://youtu.be/7gG6liug2w8
 
 ### Hoàn thiện máy sau cài đặt: 
   - Kext Network active Wi-Fi 9485.
 
   **&nbsp;**
 
-     https://www.youtube.com/edit?o=U&video_id=JU6qUJ-MpA0
+     https://youtu.be/JU6qUJ-MpA0
 
   - Fix Graphics active Night Shift.
 
   **&nbsp;**
 
-     https://www.youtube.com/edit?o=U&video_id=8XlJ8UN94Ho
+     https://youtu.be/8XlJ8UN94Ho
      
   - Cài đặt Clover EFI Bootloader cho phân vùng Macintosh HD.
 
   **&nbsp;**
 
-     https://www.youtube.com/edit?o=U&video_id=W5pLM5bKfaA
+     https://youtu.be/W5pLM5bKfaA
 
   - Tạo file SSDT hoạt động hiệu năng của CPU.  
 
   **&nbsp;** 
 
-     https://www.youtube.com/edit?o=U&video_id=wSqNAt8mHGE
+     https://youtu.be/wSqNAt8mHGE
 
   - Cài kext Audio sửa lỗi mất âm thanh sau khi gập Laptop.  
 
   **&nbsp;** 
 
-     https://www.youtube.com/edit?o=U&video_id=kXXDElK2EA8
+     https://youtu.be/kXXDElK2EA8
 
 ## Khởi động lại và xem kết quả và test lại toàn bộ hệ thống xem đã hoàn chỉnh chưa?
 **Lệnh cho phép các app không rõ nguồn gốc chạy được trên mac**

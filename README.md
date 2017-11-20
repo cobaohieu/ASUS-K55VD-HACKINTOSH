@@ -28,9 +28,9 @@ But I have change some thing and added.
  - Option 1: Follow the instructions in the video list above.
  - Option 2: Follow guide below:
 
-<center><a href="/Lang/en.md">English</a>
+<a href="/Lang/en.md">English</a>
 
-<a href="/Lang/vi.md">Tiếng Việt</a></center>
+<a href="/Lang/vi.md">Tiếng Việt</a>
 
 ## Keyboard Function:
  - Shift + F2: Brightness down

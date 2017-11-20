@@ -20,10 +20,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 		Hướng dẫn để cài đặt macOS High Sierra 10.13 trên Laptop ASUS K55VD.
 	</h3>
 </center>
-<br>
-<strong>
-	Cấu hình cơ bản:
-</strong>
+
+## Cấu hình cơ bản:
 <br>
 ◦ Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
 <br>
@@ -51,10 +49,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 <br>
 ◦ Optical Drive: Super-Multi DVD (Optional) 
 <br>
-<br>
-<strong>
-	Các thành phần hoạt động tốt:
-</strong>
+## Các thành phần hoạt động tốt:
 <br>
 ◦ Graphics (Intel HD4000)
 <br>
@@ -81,9 +76,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 ◦ Disable turbo boost on battery
 <br>
 <br>
-<strong>
-	Các thành phần không hoạt động:
-</strong>
+## Các thành phần không hoạt động:
 <br>
 ◦ GT610M Graphics
 <br>
@@ -121,9 +114,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 ◦ Một Laptop chạy Windows 7 hoặc cao hơn
 <br>
 <br>
-<strong>
-	Phân vùng ổ cứng hệ thống
-</strong>
+## Phân vùng ổ cứng hệ thống
 <br>https://www.youtube.com/watch?v=uPbyxqggrA8
 <br>
 ◦ Tạo bộ cài đặt trên USB: https://www.youtube.com/watch?v=P_O1PTPiQok
@@ -148,36 +139,4 @@ Khởi động lại và xem kết quả và test lại toàn bộ hệ thống 
 	xcode-select —install
 <br>
 <br>
-<strong>
-	.............................................Thanks for sites and guys.............................................
-</strong>
-<br>
-- 1. BetaDroid: https://github.com/BetaDroid
-<br>
-- 2. RehabMan: https://github.com/RehabMan
-<br>
-- 3. vit9696: https://github.com/vit9696
-<br>
-- 4. Github: https://github.com
-<br>
-- 5. Google: https://youtube.com/southernvevo
-<br>
-- 6. Facebook: https://www.facebook.com/southernvevo
-<br>
-- 7. Tonymacx86.com http://tonymacx86.com
-<br>
-- 8. Macintosh-VN http://macintosh.vn
-<br>
-- 9. OSX.vn: http://osx.vn
-<br>
-- 10. Viethackintosh: https://viethackintosh.com/
-<br>
-- 11. Weloveapple: https://weloveapple.vn/
-<br>
-<br>
-<strong>
-	...........................................Thanks for visting and watching..........................................
-</strong>
-
-![Screenshot](/Images/img10131.png)
 

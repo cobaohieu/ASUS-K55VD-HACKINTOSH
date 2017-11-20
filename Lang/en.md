@@ -4,10 +4,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
 
 
-![Screenshot](https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg)
-<strong>
-...............................................:System:...............................................
-</strong>
+## System
 <br>
 <strong>
 	- Specifications:
@@ -40,9 +37,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 + Optical Drive: Super-Multi DVD (Optional).
 <br>
 <br>
-<strong>
-	...............................................:Status:...............................................
-</strong>
+## Status
 <br>
 <strong>
 - Status Working:
@@ -84,9 +79,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   + Realtek CardReader
 <br> 
 <br>
-<strong>
-	...............................................:Prepair:...............................................
-</strong>
+## Prepair
 <br>
 - One USB 3.0 with 8Gb or higher
 <br>
@@ -125,8 +118,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 - A PC run mac OS or virtual machine run on Windows 7 or higher
 <br>
 <br> 
-<strong>
-	...............................................:Install:...............................................
+## Install
 </strong>
 <br>
 - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
@@ -198,37 +190,6 @@ This is a working set of kexts and configurations for running OS X, macOS for la
     + Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
 <br>
 <br>
-<strong>
-	.............................................Thanks for sites and guys.............................................
-</strong>
-<br>
-- 1. BetaDroid: https://github.com/BetaDroid
-<br>
-- 2. RehabMan: https://github.com/RehabMan
-<br>
-- 3. vit9696: https://github.com/vit9696
-<br>
-- 4. Github: https://github.com
-<br>
-- 5. Google: https://youtube.com/southernvevo
-<br>
-- 6. Facebook: https://www.facebook.com/southernvevo
-<br>
-- 7. Tonymacx86.com http://tonymacx86.com
-<br>
-- 8. Macintosh-VN http://macintosh.vn
-<br>
-- 9. OSX.vn: http://osx.vn
-<br>
-- 10. Viethackintosh: https://viethackintosh.com/
-<br>
-- 11. Weloveapple: https://weloveapple.vn/
-<br>
-<br>
-<strong>
-	...........................................Thanks for visting and watching..........................................
-</strong>
 
-![Screenshot](/Images/img10131.png)
 
 

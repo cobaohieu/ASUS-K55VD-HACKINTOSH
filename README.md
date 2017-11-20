@@ -25,7 +25,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
     https://www.youtube.com/playlist?list=PLUq84GaSeHqnUXcDzDq_qUARB0Z-nFt-B
 
-    But I have change some thing and added.
+But I have change some thing and added.
 
  - Option 2: Follow guide below:
 

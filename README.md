@@ -1,7 +1,7 @@
 ## ASUS-K55VD-HACKINTOSH install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra, macOS High Sierra 10.13
 
 Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
-This is a working set of kexts and configurations for running macOS Sierra on an Dell 5547 (i7) laptop.
+This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
 
 
 ![Screenshot](https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg)

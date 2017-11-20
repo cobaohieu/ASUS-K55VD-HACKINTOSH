@@ -78,6 +78,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
     - format fs=exfat quick label="Macintosh HD"
     - exit
   - Done. 
+  
   **&nbsp;**
 
      https://www.youtube.com/watch?v=uPbyxqggrA8

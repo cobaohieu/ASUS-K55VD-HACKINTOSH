@@ -1,14 +1,55 @@
 ## ASUS-K55VD-HACKINTOSH install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra, macOS High Sierra 10.13
-Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 
-<img class="alignnone size-full wp-image-486 alignright" src="https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg" alt="" width="960" height="539"/>
+Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
+This is a working set of kexts and configurations for running macOS Sierra on an Dell 5547 (i7) laptop.
+
+
+![Screenshot](https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg)
 <center>
 
 ### Loading Please wait...
 
+## Status
+ - Current version: macOS Sierra 10.12.6
+ - Bootloader: Clover EFI
+ - Working: CPU steps, sleep, audio, multitouch, FN keys, USB...
+ - Not working: wifi, bluetooth, amd graphic (had been disabled), ...
+
+**How to install macOS Sierra 10.12 on Laptop ASUS K55VD**
+
+    https://www.youtube.com/playlist?list=PLUq84GaSeHqn9vLo0XQlzfbxZF9s-cH9R
+
+**How to install macOS High Sierra 10.13 on Laptop ASUS K55VD**
+
+    https://www.youtube.com/playlist?list=PLUq84GaSeHqnUXcDzDq_qUARB0Z-nFt-B
+
+But I have change some thing and added.
+
+## How to install
+ - Option 1: Follow the instructions in the video list above.
+ - Option 2: Follow guide below:
+
 <a href="/Lang/en.md">English</a>
 
 <a href="/Lang/vi.md">Tiếng Việt</a>
+
+## Keyboard Function:
+ - Shift + F2: Brightness down
+ - Shift + F3: Brightness up
+ - Shift + F4: Hide/Show launchpad
+ - Shift + F5: Show all windows of app
+ - Shift + F6: Show windows present of app
+ - Shift + F11: Close windows present of app
+ - Shift + F12: Show/ Hide windows present
+ - Fn + F7: Turn of display
+ - Fn + F9: Turn on/off Touchpad
+ - Fn + F10: Mute
+ - Fn + F11: Volume down
+ - Fn + F12: Volume up
+ - Fn + arrow up: Stop media
+ - Fn + arrow down: Pause/Play media
+ - Fn + arrow left: play previous media
+ - Fn + arrow right: play next media
 
 ### .............................................Thanks for sites and guys.............................................
 

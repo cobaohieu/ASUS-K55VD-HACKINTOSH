@@ -1,7 +1,7 @@
 # ASUS-K55VD-HACKINTOSH install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra, macOS High Sierra 10.13
 Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 
-<img class="alignnone size-full wp-image-486 alignright" src="https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg" alt="" width="960" height="539"/>
+![Screenshot](https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg)
 ...............................................:System:...............................................
 </strong>
 <br>
@@ -194,41 +194,6 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
     + Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
 <br>
 <br>
-- Keyboard Function:
-<br>
-Shift + F2: Brightness down
-<br>
-Shift + F3: Brightness up
-<br>
-Shift + F4: Hide/Show launchpad
-<br>
-Shift + F5: Show all windows of app
-<br>
-Shift + F6: Show windows present of app
-<br>
-Shift + F11: Close windows present of app
-<br>
-Shift + F12: Show/ Hide windows present
-<br>
-Fn + F7: Turn of display
-<br>
-Fn + F9: Turn on/off Touchpad
-<br>
-Fn + F10: Mute
-<br>
-Fn + F11: Volume down
-<br>
-Fn + F12: Volume up
-<br>
-Fn + arrow up: Stop media
-<br>
-Fn + arrow down: Pause/Play media
-<br>
-Fn + arrow left: play previous media
-<br>
-Fn + arrow right: play next media
-<br>
-<br>
 <strong>
 	.............................................Thanks for sites and guys.............................................
 </strong>
@@ -259,5 +224,6 @@ Fn + arrow right: play next media
 <strong>
 	...........................................Thanks for visting and watching..........................................
 </strong>
-<img class="alignnone size-full wp-image-487" src="Images/img10131.png" alt="" width="960" height="539" />
+
+![Screenshot](/Images/img10131.png)
 

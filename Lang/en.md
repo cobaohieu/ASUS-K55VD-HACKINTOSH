@@ -69,14 +69,14 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 ## Install
   **Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.**
   **Open Command Prompt via Aministrator access and typing.**
-    - diskpart
-    - list disk | (please choose your HDD you want install macOS).
-    - sel disk 0 | (change 0 to your HDD on list).
-    - create part efi size=504 | (if no empty partition please delete about 50Gb).
-    - format fs=fat32 quick label="EFI"
-    - create part primary size=48500 | (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500, with mac 48,50Gb = 50Gb).
-    - format fs=exfat quick label="Macintosh HD"
-    - exit
+    diskpart
+    list disk | (please choose your HDD you want install macOS).
+    sel disk 0 | (change 0 to your HDD on list).
+    create part efi size=504 | (if no empty partition please delete about 50Gb).
+    format fs=fat32 quick label="EFI"
+    create part primary size=48500 | (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500, with mac 48,50Gb = 50Gb).
+    format fs=exfat quick label="Macintosh HD"
+    exit
   **Done.**
 
      https://www.youtube.com/watch?v=uPbyxqggrA8

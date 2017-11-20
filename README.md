@@ -5,7 +5,6 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 
 ![Screenshot](https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg)
-<center>
 
 ### Loading Please wait...
 
@@ -29,9 +28,9 @@ But I have change some thing and added.
  - Option 1: Follow the instructions in the video list above.
  - Option 2: Follow guide below:
 
-<a href="/Lang/en.md">English</a>
+<center><a href="/Lang/en.md">English</a>
 
-<a href="/Lang/vi.md">Tiếng Việt</a>
+<a href="/Lang/vi.md">Tiếng Việt</a></center>
 
 ## Keyboard Function:
  - Shift + F2: Brightness down

@@ -78,7 +78,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
     - format fs=exfat quick label="Macintosh HD"
     - exit
   - Done. 
-  **Videos**
+  **&nbsp;**
 
      https://www.youtube.com/watch?v=uPbyxqggrA8
 
@@ -88,8 +88,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - Open Terminal and copy and paste from first line to final line.
   -  After it all, copy Clover folder go to Volume Fat32 of EFI | (if can't boot please remove folder APPLE).
   - Make USB Boot on mac OS or OS X or virtual machine run mac OS or OS X | (Or you can copy folder to Volume EFI on HDD and create boot from BIOS).
-  
-  **Videos**
+
+  **&nbsp;**
 
      https://youtu.be/9GjaZQTLVeQ
 
@@ -99,31 +99,31 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 #### Modify OS
   - Generator SSDT for CPU 
 
-  **Videos**
+  **&nbsp;**
 
      https://youtu.be/wSqNAt8mHGE
      
   - Fix WiFi woking on mac OS 
 
-  **Videos**
+  **&nbsp;**
 
      https://youtu.be/JU6qUJ-MpA0
 
   - Install Clover EFI Bootloader 
 
-  **Videos**
+  **&nbsp;**
 
      https://www.youtube.com/watch?v=W5pLM5bKfaA
 
   - Fix Graphics with Night Mode, True HD display
 
-  **Videos**
+  **&nbsp;**
 
      https://youtu.be/8XlJ8UN94H
 
   - Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor 
 
-  **•**
+  **&nbsp;**
 
      https://youtu.be/kXXDElK2EA8   
 

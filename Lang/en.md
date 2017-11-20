@@ -67,8 +67,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
  
 ## Install
-  - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
-  - Open Command Prompt via Aministrator access and typing.
+  **Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.**
+  **Open Command Prompt via Aministrator access and typing.**
     - diskpart
     - list disk | (please choose your HDD you want install macOS).
     - sel disk 0 | (change 0 to your HDD on list).
@@ -77,21 +77,21 @@ This is a working set of kexts and configurations for running OS X, macOS for la
     - create part primary size=48500 | (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500, with mac 48,50Gb = 50Gb).
     - format fs=exfat quick label="Macintosh HD"
     - exit
-  - Done. 
+  **Done.**
 
      https://www.youtube.com/watch?v=uPbyxqggrA8
 
-  - Plug in usb to usb 3.0 port and Format usb  with HFS - (notes: Format with GUID Partition MAP).
-  - Download source setup and copy it to Application folder.
-  - Download and open file sources code ".txt" for Terminal which OS you want to setup.
-  - Open Terminal and copy and paste from first line to final line.
-  -  After it all, copy Clover folder go to Volume Fat32 of EFI | (if can't boot please remove folder APPLE).
-  - Make USB Boot on mac OS or OS X or virtual machine run mac OS or OS X | (Or you can copy folder to Volume EFI on HDD and create boot from BIOS).
+  **Plug in usb to usb 3.0 port and Format usb  with HFS **(notes: Format with GUID Partition MAP).**
+  **Download source setup and copy it to Application folder.**
+  **Download and open file sources code ".txt" for Terminal which OS you want to setup.**
+  **Open Terminal and copy and paste from first line to final line.**
+  **After it all, copy Clover folder go to Volume Fat32 of EFI | (if can't boot please remove folder APPLE).**
+  **Make USB Boot on mac OS or OS X or virtual machine run mac OS or OS X | (Or you can copy folder to Volume EFI on HDD and create boot from BIOS).**
 
      https://youtu.be/9GjaZQTLVeQ
 
-  -  After boot please choose Continue > Agree > Agree > choose your volume to install | (Look in menu bar and choose Utilities > Disk Utility > Choose your label volume "Macintosh HD" or your volume name and Earse with HFS - for HDD or AFPS for SSD) like "Macintosh HD" > Install > Done. Wait for a few minutes your laptop will reboot.
-  - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create  your account and set time zone > Diagnostic & Usage > Done.
+  **After boot please choose Continue > Agree > Agree > choose your volume to install | (Look in menu bar and choose Utilities > Disk Utility > Choose your label volume "Macintosh HD" or your volume name and Earse with HFS - for HDD or AFPS for SSD) like "Macintosh HD" > Install > Done. Wait for a few minutes your laptop will reboot.**
+  **After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create  your account and set time zone > Diagnostic & Usage > Done.**
 
 #### Modify OS
   **Generator SSDT for CPU**

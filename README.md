@@ -14,6 +14,9 @@ This is a working set of kexts and configurations for running OS X, macOS for la
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, bluetooth...
  - Not working: GPU (had been disabled), card reader...
 
+## How to install
+ - Option 1: Follow the instructions in the video list above.
+
 **How to install macOS Sierra 10.12 on Laptop ASUS K55VD**
 
     https://www.youtube.com/playlist?list=PLUq84GaSeHqn9vLo0XQlzfbxZF9s-cH9R
@@ -22,11 +25,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
     https://www.youtube.com/playlist?list=PLUq84GaSeHqnUXcDzDq_qUARB0Z-nFt-B
 
-But I have change some thing and added.
+    But I have change some thing and added.
 
-
-## How to install
- - Option 1: Follow the instructions in the video list above.
  - Option 2: Follow guide below:
 
 <a href="/Lang/en.md">English</a>

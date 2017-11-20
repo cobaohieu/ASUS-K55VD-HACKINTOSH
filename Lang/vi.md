@@ -43,7 +43,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.
   - Một USB 3.0 8Gb hoặc cao hơn.
   - Sources OS link download: 
-  
+
   **&nbsp;** 
 
        https://drive.google.com/drive/folders/0B0uxYlh9Q2lTc0NfbFBYUDI3T2s?usp=sharing
@@ -54,8 +54,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   	- 10.12: <a href="/10.12">Click here move to folder.</a>
   	- 10.13: <a href="/10.13">Click here move to folder.</a>
   - Folder Tools &amp; Software: <a href="/Software">Click here move to folder</a>
-  - Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Cvad-mac.narod.ru/</a>
-  - Link Download MiniTool Partition Wizard Free Edition 10.2: <a href="https://download3.minitool.com/pw10/pw10-free.exe" target="_blank">Partitionwizard.com</a>
+  - Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Click here to download</a>
+  - Link Download MiniTool Partition Wizard Free Edition 10.2: <a href="https://download3.minitool.com/pw10/pw10-free.exe" target="_blank">Click here to download</a>
   - Folder Chứa các lệnh Terminal Prompt: 
 	- 10.10: <a href="/Command Prompt/Guide Setup OS X Yosemite 10.10.txt">Guide Setup OS X Yosemite 10.10</a>
 	- 10.11: <a href="/Command Prompt/Guide Setup OS X El Capital 10.11.txt">Guide Setup OS X El Capital 10.11</a>

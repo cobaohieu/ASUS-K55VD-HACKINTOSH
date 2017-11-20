@@ -44,6 +44,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - Một USB 3.0 8Gb hoặc cao hơn.
   - Sources OS link download: 
 
+  **&nbsp; 
+  
        https://drive.google.com/drive/folders/0B0uxYlh9Q2lTc0NfbFBYUDI3T2s?usp=sharing
 
   - Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): 

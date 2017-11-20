@@ -112,7 +112,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
   - Cài kext Audio sửa lỗi mất âm thanh sau khi gập Laptop.  
 
-  **&nbsp; 
+  **&nbsp;** 
 
      https://www.youtube.com/edit?o=U&video_id=kXXDElK2EA8
 

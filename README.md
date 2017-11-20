@@ -53,19 +53,19 @@ But I have change some thing and added.
 ### .............................................Thanks for sites and guys.............................................
 
 
-- 1. BetaDroid: https://github.com/BetaDroid
-- 2. RehabMan: https://github.com/RehabMan
-- 3. vit9696: https://github.com/vit9696
-- 4. Github: https://github.com
-- 5. Google: https://youtube.com/southernvevo
-- 6. Facebook: https://www.facebook.com/southernvevo
-- 7. Tonymacx86.com http://tonymacx86.com
-- 8. Macintosh-VN http://macintosh.vn
-- 9. OSX.vn: http://osx.vn
-- 10. Viethackintosh: https://viethackintosh.com/
-- 11. Weloveapple: https://weloveapple.vn/
-- 12. Clover EFI Bootloader: https://github.com/Clover-EFI-Bootloader
-- 13. chunnann: https://github.com/chunnann/
+- BetaDroid: https://github.com/BetaDroid
+- RehabMan: https://github.com/RehabMan
+- vit9696: https://github.com/vit9696
+- Github: https://github.com
+- Google: https://youtube.com/southernvevo
+- Facebook: https://www.facebook.com/southernvevo
+- Tonymacx86.com http://tonymacx86.com
+- Macintosh-VN http://macintosh.vn
+- OSX.vn: http://osx.vn
+- Viethackintosh: https://viethackintosh.com/
+- Weloveapple: https://weloveapple.vn/
+- Clover EFI Bootloader Team: https://github.com/Clover-EFI-Bootloader/
+- chunnann: https://github.com/chunnann/
 ### ...........................................Thanks for visting and watching..........................................
 
 <img class="alignnone size-full wp-image-487" src="Images/img10131.png" alt="" width="960" height="539" />

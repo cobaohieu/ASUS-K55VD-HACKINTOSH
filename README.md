@@ -53,8 +53,7 @@ But I have change some thing and added.
  - Fn + arrow right: play next media
 
 
-### .............................................Thanks for sites and guys.............................................
-
+## Thanks for sites and guys
 - BetaDroid: https://github.com/BetaDroid
 - RehabMan: https://github.com/RehabMan
 - vit9696: https://github.com/vit9696
@@ -69,6 +68,6 @@ But I have change some thing and added.
 - Clover EFI Bootloader Team: https://github.com/Clover-EFI-Bootloader/
 - chunnann: https://github.com/chunnann/
 
-### ...........................................Thanks for visting and watching..........................................
+## Thanks for visting and watching
 
 <img class="alignnone size-full wp-image-487" src="Images/img10131.png" alt="" width="960" height="539" />

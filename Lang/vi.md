@@ -4,9 +4,9 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
 
 
-# Hướng dẫn để cài đặt macOS High Sierra 10.13 trên Laptop ASUS K55VD.
+## Hướng dẫn để cài đặt macOS High Sierra 10.13 trên Laptop ASUS K55VD.
 
-## Cấu hình cơ bản:
+### Cấu hình cơ bản:
 	- Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
 	- Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
 	- Hard disk : HDD Hitachi 500GB
@@ -21,7 +21,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 	- Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
 	- Optical Drive: Super-Multi DVD (Optional) 
 
-## Các thành phần hoạt động tốt:
+### Các thành phần hoạt động tốt:
 	- Graphics (Intel HD4000)
 	- Audio
 	- WIFI + Bluetooth
@@ -35,11 +35,11 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 	- USB works
 	- Disable turbo boost on battery
 
-## Các thành phần không hoạt động:
+### Các thành phần không hoạt động:
 	- GT610M Graphics
 	- Realtek CardReader
 
-## Yêu cầu: 
+### Yêu cầu: 
 	- BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.
 	- Một USB 3.0 8Gb hoặc cao hơn.
 	- Sources OS link download: <a href="https://www.fshare.vn/file/AH8IJYXJJVGD" target="_blank">Fshare</a>
@@ -54,27 +54,27 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 	- Mình cài trên HDD chuẩn EFI nhé
 	- Một Laptop chạy Windows 7 hoặc cao hơn
 
-## Cài đặt
+### Cài đặt
 
-### Phân vùng ổ cứng hệ thống
+#### Phân vùng ổ cứng hệ thống
 
   **&nbsp;**
 
      https://www.youtube.com/watch?v=uPbyxqggrA8
 
-### Tạo bộ cài đặt trên USB:  
+#### Tạo bộ cài đặt trên USB:  
 
   **&nbsp;**
 
      https://youtu.be/9GjaZQTLVeQ
 
-### Cài đặt macOS trên HDD:
+#### Cài đặt macOS trên HDD:
 
   **&nbsp;**
 
      https://www.youtube.com/watch?v=7gG6liug2w8
 
-### Hoàn thiện máy sau cài đặt: 
+#### Hoàn thiện máy sau cài đặt: 
 
   **&nbsp;**
 

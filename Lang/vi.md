@@ -86,6 +86,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - Fix Graphics active Night Shift: 
 
   **&nbsp;**
+  
      https://www.youtube.com/edit?o=U&video_id=8XlJ8UN94Ho
      
   - Cài đặt Clover EFI Bootloader cho phân vùng Macintosh HD

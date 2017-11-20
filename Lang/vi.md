@@ -82,10 +82,10 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ### Khởi động lại và xem kết quả và test lại toàn bộ hệ thống xem đã hoàn chỉnh chưa?
 **Lệnh cho phép các app không rõ nguồn gốc chạy được trên mac**
-	sudo spctl —master-disable
+	- sudo spctl —master-disable
 
 **Lệnh cài đặt Xcode**
-	xcode-select —install
+	- xcode-select —install
 
 
 

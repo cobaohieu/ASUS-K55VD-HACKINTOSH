@@ -94,31 +94,31 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create  your account and set time zone > Diagnostic & Usage > Done.
 
 #### Modify OS
-  - Generator SSDT for CPU 
+  **Generator SSDT for CPU**
 
      https://youtu.be/wSqNAt8mHGE
 
-  - Fix WiFi woking on mac OS 
+  **Fix WiFi woking on mac OS**
 
      https://youtu.be/JU6qUJ-MpA0
 
-  - Install Clover EFI Bootloader 
+ **Install Clover EFI Bootloader** 
 
      https://www.youtube.com/watch?v=W5pLM5bKfaA
 
-  - Fix Graphics with Night Mode, True HD display
+  **Fix Graphics with Night Mode, True HD display**
 
      https://youtu.be/8XlJ8UN94H
 
-  - Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor 
+  **Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor** 
 
      https://youtu.be/kXXDElK2EA8
      
-  - If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
-  - If you not please do it below.
-  - Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create. 
-  - Please choose it to first boot.
-  - Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
+  **If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.**
+  **If you not please do it below.**
+  **Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create.** 
+  **Please choose it to first boot.**
+  **Done. Go to your Macintosh HD and enjoy. Install your software you like or love.**
 
 
 

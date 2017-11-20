@@ -8,7 +8,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 # 
 
-![Screenshot](/Images/wait.gif)
+![Screenshot](/Images/loading.gif)
 
 ## Status
  - Current version: up to date mac OS Sierra 10.13.1

@@ -78,28 +78,42 @@ This is a working set of kexts and configurations for running OS X, macOS for la
     - format fs=exfat quick label="Macintosh HD"
     - exit
   - Done. 
+
      https://www.youtube.com/watch?v=uPbyxqggrA8
+
   - Plug in usb to usb 3.0 port and Format usb  with HFS - (notes: Format with GUID Partition MAP).
   - Download source setup and copy it to Application folder.
   - Download and open file sources code ".txt" for Terminal which OS you want to setup.
   - Open Terminal and copy and paste from first line to final line.
   -  After it all, copy Clover folder go to Volume Fat32 of EFI | (if can't boot please remove folder APPLE).
   - Make USB Boot on mac OS or OS X or virtual machine run mac OS or OS X | (Or you can copy folder to Volume EFI on HDD and create boot from BIOS).
+
      https://youtu.be/9GjaZQTLVeQ
+
   -  After boot please choose Continue > Agree > Agree > choose your volume to install | (Look in menu bar and choose Utilities > Disk Utility > Choose your label volume "Macintosh HD" or your volume name and Earse with HFS - for HDD or AFPS for SSD) like "Macintosh HD" > Install > Done. Wait for a few minutes your laptop will reboot.
   - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create  your account and set time zone > Diagnostic & Usage > Done.
 
 #### Modify OS
   - Generator SSDT for CPU 
+
      https://youtu.be/wSqNAt8mHGE
+
   - Fix WiFi woking on mac OS 
+
      https://youtu.be/JU6qUJ-MpA0
+
   - Install Clover EFI Bootloader 
+
      https://www.youtube.com/watch?v=W5pLM5bKfaA
+
   - Fix Graphics with Night Mode, True HD display
+
      https://youtu.be/8XlJ8UN94H
+
   - Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor 
+
      https://youtu.be/kXXDElK2EA8
+     
   - If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
   - If you not please do it below.
   - Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create. 

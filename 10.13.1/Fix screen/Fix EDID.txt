@@ -1,4 +1,0 @@
-ioreg -lw0 > ~/Desktop/ioregSaved.10.13.1.txt
-"DisplayVendorID"
-"DisplayProductID"
-"IODisplayEDID"

@@ -1,0 +1,5 @@
+cd ~/Desktop/SSDT
+./ssdtPRGen.sh
+
+rm /Volumes/EFI/EFI/Clover/ACPI/patched/SSDT.aml
+cp ~/Library/ssdtPRGen/ssdt.aml /Volumes/EFI/EFI/Clover/ACPI/patched/SSDT.aml

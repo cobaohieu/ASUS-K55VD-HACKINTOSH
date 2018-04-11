@@ -4,8 +4,6 @@
 <dict>
 	<key>ACPI</key>
 	<dict>
-		<key>AutoMerge</key>
-		<true/>
 		<key>DSDT</key>
 		<dict>
 			<key>Debug</key>
@@ -14,33 +12,29 @@
 			<false/>
 			<key>Fixes</key>
 			<dict>
-				<key>AddDTGP_0001</key>
+				<key>AddDTGP</key>
 				<true/>
-				<key>AddHDMI_8000000</key>
+				<key>AddIMEI</key>
 				<true/>
-				<key>AddPNLF_1000000</key>
+				<key>AddMCHC</key>
 				<true/>
-				<key>DeleteUnused_400000</key>
+				<key>AddPNLF</key>
 				<true/>
-				<key>FIX_ACST_4000000</key>
+				<key>DeleteUnused</key>
 				<true/>
-				<key>FIX_ADP1_800000</key>
+				<key>FixDarwin</key>
 				<true/>
-				<key>FIX_RTC_20000</key>
+				<key>FixHPET</key>
 				<true/>
-				<key>FIX_WAK_200000</key>
+				<key>FixHeaders</key>
 				<true/>
-				<key>FixDarwin_0002</key>
+				<key>FixIPIC</key>
 				<true/>
-				<key>FixFirewire_0800</key>
+				<key>FixRTC</key>
 				<true/>
-				<key>FixIPIC_0040</key>
+				<key>FixShutdown</key>
 				<true/>
-				<key>FixLAN_2000</key>
-				<true/>
-				<key>FixLAN_2000 2</key>
-				<true/>
-				<key>FixRegions_10000000</key>
+				<key>FixTMR</key>
 				<true/>
 			</dict>
 			<key>Name</key>
@@ -52,23 +46,7 @@
 		<array>
 			<dict>
 				<key>Signature</key>
-				<string>MCFG</string>
-			</dict>
-			<dict>
-				<key>Signature</key>
 				<string>DMAR</string>
-			</dict>
-			<dict>
-				<key>Signature</key>
-				<string>SSDT</string>
-				<key>TableId</key>
-				<string>Cpu0Ist</string>
-			</dict>
-			<dict>
-				<key>Signature</key>
-				<string>SSDT</string>
-				<key>TableId</key>
-				<string>CpuPm</string>
 			</dict>
 		</array>
 		<key>HaltEnabler</key>
@@ -79,15 +57,9 @@
 			<false/>
 			<key>Generate</key>
 			<dict>
-				<key>APLF</key>
-				<false/>
-				<key>APSN</key>
-				<false/>
 				<key>CStates</key>
 				<false/>
 				<key>PStates</key>
-				<false/>
-				<key>PluginType</key>
 				<false/>
 			</dict>
 		</dict>
@@ -104,22 +76,16 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>#Fast</key>
-		<true/>
-		<key>#Legacy</key>
-		<string>LegacyBiosDefault</string>
-		<key>#NeverHibernate</key>
-		<true/>
-		<key>#XMPDetection</key>
-		<string>Yes</string>
 		<key>Arguments</key>
-		<string>dart=0 darkwake=0 kext-dev-mode=1 slide=0 nv_disable=1 rootless=0</string>
+		<string>NoCache slide=0 dart=0 nv_disable=1 rootless=0 kext-dev-mode=1</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
 		<string>boot.efi</string>
 		<key>DefaultVolume</key>
 		<string>Macintosh HD</string>
+		<key>Fast</key>
+		<false/>
 		<key>Log</key>
 		<false/>
 		<key>NeverHibernate</key>
@@ -127,7 +93,9 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>3</integer>
+		<key>XMPDetection</key>
+		<string>Yes</string>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -140,6 +108,8 @@
 		<dict>
 			<key>Inject</key>
 			<string>3</string>
+			<key>ResetHDA</key>
+			<true/>
 		</dict>
 		<key>USB</key>
 		<dict>
@@ -151,7 +121,7 @@
 			<true/>
 		</dict>
 		<key>UseIntelHDMI</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>GUI</key>
 	<dict>
@@ -160,14 +130,38 @@
 			<key>Entries</key>
 			<array>
 				<dict>
+					<key>Disabled</key>
+					<false/>
 					<key>Hidden</key>
+					<false/>
+					<key>Ignore</key>
+					<false/>
+					<key>NoCaches</key>
 					<false/>
 					<key>Type</key>
 					<string>OSXRecovery</string>
 				</dict>
 				<dict>
+					<key>Disabled</key>
+					<false/>
+					<key>FullTitle</key>
+					<string>UEFI Internal</string>
+					<key>Hidden</key>
+					<string>Always</string>
+					<key>Ignore</key>
+					<false/>
+					<key>NoCaches</key>
+					<false/>
+					<key>Type</key>
+					<string>Other</string>
+				</dict>
+				<dict>
+					<key>Disabled</key>
+					<false/>
+					<key>Ignore</key>
+					<false/>
 					<key>Title</key>
-					<string>Windows</string>
+					<string>OS</string>
 					<key>Type</key>
 					<string>Windows</string>
 				</dict>
@@ -181,8 +175,12 @@
 		<string>en:0</string>
 		<key>Mouse</key>
 		<dict>
-			<key>Enabled</key>
+			<key>DoubleClick</key>
+			<integer>500</integer>
+			<key>Mirror</key>
 			<false/>
+			<key>Speed</key>
+			<integer>8</integer>
 		</dict>
 		<key>Scan</key>
 		<dict>
@@ -191,33 +189,17 @@
 			<key>Legacy</key>
 			<false/>
 			<key>Linux</key>
-			<true/>
+			<false/>
 			<key>Tool</key>
-			<true/>
+			<false/>
 		</dict>
-		<key>ScreenResolution</key>
-		<string>1366x768</string>
 		<key>Theme</key>
 		<string>mac_s</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
-		<key>EDID</key>
-		<dict>
-			<key>Custom</key>
-			<data>
-			AP///////wAZlkoyAAAAAAAVAQOAIhN4Cs6FnltMlCYXUFQAAAAB
-			AQEBAQEBAQEBAQEBAQEBfR5WGFEAFjAwICUAWMIQAAAZAAAADwAA
-			AAAAAAAAAB60AnQAAAAA/gBTQU1TVU5HCiAgICAgAAAA/gAxNTZB
-			VDI0LVAwMQogAFw=
-			</data>
-			<key>Inject</key>
-			<true/>
-			<key>ProductID</key>
-			<string>12874</string>
-			<key>VendorID</key>
-			<string>6550</string>
-		</dict>
+		<key>DualLink</key>
+		<integer>1</integer>
 		<key>Inject</key>
 		<dict>
 			<key>ATI</key>
@@ -326,6 +308,22 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>HDMI-video, 64MB BIOS, HD4000 0x01660004 #1 of 2</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				BABmAQEDAQEAAAAC
+				</data>
+				<key>Name</key>
+				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
+				<key>Replace</key>
+				<data>
+				BABmAQECBAIAAAAE
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>HDMI-audio HD4000 0x01660003, port 0205</string>
 				<key>Disabled</key>
 				<true/>
@@ -374,130 +372,68 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Zeroing 10ec0885 codec (patched by AppleHDA Patcher.app)</string>
+				<string>HDMI-video, 64MB BIOS, HD4000 0x01660004 #2 of 2</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
 				<data>
-				hQjsEA==
+				MAIAAAAAAAABAAAAQAAAAAAAAAABAAAAQAAAAAAAAAAB
+				AAAAQAAAAAAAAAAAAAAA
 				</data>
 				<key>Name</key>
-				<string>AppleHDA</string>
+				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
 				<data>
-				AAAAAA==
+				MAIAAAIFAAAABAAABwQAAAMEAAAABAAAgQAAAAQGAAAA
+				BAAAgQAAAAAAAAAAAgAR
 				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>HDMI Audio 1</string>
+				<string>HDMI-audio HD4000 0x01660004, port 0205</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
-				PQwKAAB0Dg==
+				AgUAAAAEAAAHBAAA
 				</data>
 				<key>Name</key>
-				<string>AppleHDAController</string>
+				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
 				<data>
-				PQwMAAB0Dg==
+				AgUAAAAIAAAGAAAA
 				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>HDMI Audio 2</string>
+				<string>HDMI-audio HD4000 0x01660004, port 0304</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
-				PQwKAAAPhA==
+				AwQAAAAEAACBAAAA
 				</data>
 				<key>Name</key>
-				<string>AppleHDAController</string>
+				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
 				<data>
-				PQwMAAAPhA==
+				AwQAAAAIAAAGAAAA
 				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>HDMI Audio 3</string>
+				<string>HDMI-audio HD4000 0x01660004, port 0406</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
-				PQwKAAAPhSABAAA=
+				BAYAAAAEAACBAAAA
 				</data>
 				<key>Name</key>
-				<string>AppleHDAController</string>
+				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
 				<data>
-				PQwMAAB0S5CQkJA=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>AppleHDA Patch</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				hAjsEA==
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				AAAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>AppleHDA Patch</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				gxnUEQ==
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				AAAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Patching 11d41984 with 10ec0270 codec (patched by AppleHDA Patcher.app)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				hBnUEQ==
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				cALsEA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>10.12-AppleHDA/Realtek ALC...</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				ihnUEQ==
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				AAAAAA==
+				BAYAAAAIAAAGAAAA
 				</data>
 			</dict>
 			<dict>

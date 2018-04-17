@@ -7,8 +7,9 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 ![Screenshot](https://viethackintosh.com/wp-content/uploads/2017/03/ASUS2.jpg)
 
 # 
-
-![Screenshot]<center>(/Images/loading_spinner.gif)</center>
+<center>
+![Screenshot](/Images/loading_spinner.gif)
+</center>
 
 ## Status
  - Current version: up to date mac OS Sierra 10.13.1

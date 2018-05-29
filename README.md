@@ -4,7 +4,7 @@ Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
 
 
-![Screenshot](img class="alignnone size-full wp-image-487" src="Images/img01203.png" alt="" width="960" height="539" /)
+![Screenshot](/Images/img01203.jpg)
 
 # 
 <p align="center"><img src ="/Images/loading_spinner.gif" /></p>

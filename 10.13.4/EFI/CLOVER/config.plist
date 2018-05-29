@@ -49,6 +49,8 @@
 				<string>DMAR</string>
 			</dict>
 		</array>
+		<key>FixHeaders</key>
+		<true/>
 		<key>HaltEnabler</key>
 		<true/>
 		<key>SSDT</key>
@@ -57,10 +59,16 @@
 			<false/>
 			<key>Generate</key>
 			<dict>
+				<key>APLF</key>
+				<false/>
+				<key>APSN</key>
+				<false/>
 				<key>CStates</key>
 				<false/>
 				<key>PStates</key>
 				<false/>
+				<key>PluginType</key>
+				<true/>
 			</dict>
 		</dict>
 		<key>SortedOrder</key>
@@ -77,7 +85,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>NoCache slide=0 dart=0 nv_disable=1 rootless=0 kext-dev-mode=1</string>
+		<string>dart=0 nv_disable=1 shikigva=1 NoCache slide=0 rootless=0 kext-dev-mode=1</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
@@ -96,6 +104,11 @@
 		<integer>3</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
+	</dict>
+	<key>BootGraphics</key>
+	<dict>
+		<key>EFILoginHiDPI</key>
+		<integer>1</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -121,7 +134,7 @@
 			<true/>
 		</dict>
 		<key>UseIntelHDMI</key>
-		<false/>
+		<true/>
 	</dict>
 	<key>GUI</key>
 	<dict>

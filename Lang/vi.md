@@ -69,6 +69,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 	- 10.11: <a href="/Command Prompt/Guide Setup OS X El Capital 10.11.txt">Guide Setup OS X El Capital 10.11</a>
 	- 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
 	- 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
+	- 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
   - 30 – 40 phút cài đặt.
   - Mình cài trên HDD chuẩn EFI nhé.
   - Một Laptop chạy Windows 7 hoặc cao hơn.

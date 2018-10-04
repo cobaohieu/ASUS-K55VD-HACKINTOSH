@@ -47,6 +47,8 @@ But I have change some thing and added.
  - Shift + F6: Show windows present of app
  - Shift + F11: Close windows present of app
  - Shift + F12: Show/ Hide windows present
+ - Fn + F5 : Brightness down
+ - Fn + F6 : Brightness up
  - Fn + F7: Turn of display
  - Fn + F9: Turn on/off Touchpad
  - Fn + F10: Mute
@@ -75,4 +77,4 @@ But I have change some thing and added.
 
 ## Thanks for visting and watching
 
-<img class="alignnone size-full wp-image-487" src="Images/img10131.png" alt="" width="960" height="539" />
+<img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="" width="960" height="539" />

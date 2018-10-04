@@ -61,19 +61,24 @@ But I have change some thing and added.
 
 
 ## Thanks for sites and guys
-- BetaDroid: https://github.com/BetaDroid
-- RehabMan: https://github.com/RehabMan
-- vit9696: https://github.com/vit9696
-- Github: https://github.com
-- Google: https://youtube.com/southernvevo
+- BetaDroid: https://github.com/BetaDroid/
+- RehabMan: https://github.com/RehabMan/
+- Acidanthera: https://github.com/acidanthera/
+- Github: https://github.com/
+- Google: https://youtube.com/southernvevo/
 - Facebook: https://www.facebook.com/southernvevo
-- Tonymacx86.com http://tonymacx86.com
-- Macintosh-VN http://macintosh.vn
-- OSX.vn: http://osx.vn
+- Tonymacx86.com http://tonymacx86.com/
+- Macintosh-VN http://macintosh.vn/
+- OSX.vn: http://osx.vn/
 - Viethackintosh: https://viethackintosh.com/
 - Weloveapple: https://weloveapple.vn/
 - Clover EFI Bootloader Team: https://github.com/Clover-EFI-Bootloader/
 - chunnann: https://github.com/chunnann/
+- Bùi Minh Bình: https://niemtin007.blogspot.com/
+- Adam Strzelecki: https://github.com/nanoant/
+- syscl: https://github.com/syscl
+- ZeRo Xu: https://github.com/xzhih/
+- Tobias Salzmann: https://github.com/Eun/ 
 
 ## Thanks for visting and watching
 

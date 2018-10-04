@@ -38,7 +38,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ### Status not working:
   - GT610M Graphics
-  - Realtek CardReader
+  - Realtek CardReader (Sometimes work, sometimes not work)
  
 ## Prepair
   - One USB 3.0 with 8Gb or higher

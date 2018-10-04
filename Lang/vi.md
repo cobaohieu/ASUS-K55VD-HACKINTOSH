@@ -37,7 +37,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ## Các thành phần không hoạt động:
   - GT610M Graphics
-  - Realtek CardReader
+  - Realtek CardReader (thi thoảng hoạt động)
 
 ## Yêu cầu: 
   - BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.

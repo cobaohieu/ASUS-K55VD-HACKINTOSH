@@ -47,6 +47,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
      Update link...
 
 ### Sources code Terminal:
+  - Copy and paste to Terminal
    - 10.10: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20OS%20X%20Yosemite%2010.10.txt">Guide Setup OS X Yosemite 10.10</a>
 	 - 10.11: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20OS%20X%20El%20Capital%2010.11.txt">Guide Setup OS X El Capital 10.11</a>
 	 - 10.12: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20macOS%20Sierra%2010.12.txt">Guide Setup macOS Sierra 10.12</a>

@@ -54,10 +54,11 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName or Usb or Usbmac to your usb name)
 
 ### Sources Clover: (Please choose your version of mac OS or OS X you want to install on my Laptop)
-  - 10.10: <a href="/10.10">Click here move to folder.</a>
-  - 10.11: <a href="/10.11">Click here move to folder.</a>
-  - 10.12: <a href="/10.12">Click here move to folder.</a>
-  - 10.13: <a href="/10.13">Click here move to folder.</a>
+  - 10.10: <a href="/10.10.5">Click here move to folder.</a>
+  - 10.11: <a href="/10.11.6">Click here move to folder.</a>
+  - 10.12: <a href="/10.12.6">Click here move to folder.</a>
+  - 10.13: <a href="/10.13.6">Click here move to folder.</a>
+  - 10.14: <a href="/10.14">Click here move to folder.</a>
 
 ### Sources Sofware:
   - Link download: <a href="/Software">Click here move to folder.</a>

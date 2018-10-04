@@ -65,11 +65,11 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Click here to download</a>
   - Link Download MiniTool Partition Wizard Free Edition 10.2: <a href="https://download3.minitool.com/pw10/pw10-free.exe" target="_blank">Click here to download</a>
   - Folder Chứa các lệnh Terminal Prompt: 
-	- 10.10: <a href="/Command Prompt/Guide Setup OS X Yosemite 10.10.txt">Guide Setup OS X Yosemite 10.10</a>
-	- 10.11: <a href="/Command Prompt/Guide Setup OS X El Capital 10.11.txt">Guide Setup OS X El Capital 10.11</a>
-	- 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
-	- 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
-	- 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
+	- 10.10: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%Setup%OS%X%Yosemite%10.10.txt">Guide Setup OS X Yosemite 10.10</a>
+	- 10.11: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%Setup%OS%X%El%Capital%10.11.txt">Guide Setup OS X El Capital 10.11</a>
+	- 10.12: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%Setup%macOS%Sierra%10.12.txt">Guide Setup macOS Sierra 10.12</a>
+	- 10.13: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%Setup%macOS%High%Sierra%10.13.txt">Guide Setup macOS High Sierra 10.13</a>
+	- 10.14: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%Setup%macOS%Mojave%10.14.txt">Guide Setup macOS Mojave 10.14</a>
   - 30 – 40 phút cài đặt.
   - Mình cài trên HDD chuẩn EFI nhé.
   - Một Laptop chạy Windows 7 hoặc cao hơn.

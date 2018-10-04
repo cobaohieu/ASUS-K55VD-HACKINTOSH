@@ -46,7 +46,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
   **&nbsp;** 
 
-       https://drive.google.com/drive/folders/0B0uxYlh9Q2lTc0NfbFBYUDI3T2s?usp=sharing
+       Update link...
 
   - Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): 
   	- 10.10: <a href="/10.10.5">Click here move to folder.</a>
@@ -54,6 +54,12 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   	- 10.12: <a href="/10.12.6">Click here move to folder.</a>
   	- 10.13: <a href="/10.13.6">Click here move to folder.</a>
   	- 10.14: <a href="/10.14">Click here move to folder.</a>
+
+
+## DOWNLOAD: PLEASE CHECK MY RELEASES.
+
+   https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
+
     
   - Folder Tools &amp; Software: <a href="/Software">Click here move to folder</a>
   - Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Click here to download</a>

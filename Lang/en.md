@@ -44,7 +44,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - One USB 3.0 with 8Gb or higher
 
 ### Sources OS:
-     https://drive.google.com/drive/folders/0B0uxYlh9Q2lTc0NfbFBYUDI3T2s?usp=sharing
+     Update link...
 
 ### Sources code Terminal: 
    - 10.10: <a href="/Command Prompt/Guide Setup OS X Yosemite 10.10.txt">Guide Setup OS X Yosemite 10.10</a>
@@ -64,6 +64,11 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - Link download: <a href="/Software">Click here move to folder.</a>
   - 30 minutes to setup or higher.
   - A PC run mac OS or virtual machine run on Windows 7 or higher.
+
+
+## DOWNLOAD: PLEASE CHECK MY RELEASES.
+
+   https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
  
 ## Install

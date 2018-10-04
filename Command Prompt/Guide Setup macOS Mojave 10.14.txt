@@ -1,0 +1,2 @@
+sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/usb --applicationpath /Applications/Install\ macOS\ Mojave.app --nointeraction
+

@@ -105,11 +105,6 @@
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
-	<key>BootGraphics</key>
-	<dict>
-		<key>EFILoginHiDPI</key>
-		<integer>1</integer>
-	</dict>
 	<key>CPU</key>
 	<dict>
 		<key>UseARTFrequency</key>

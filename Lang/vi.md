@@ -46,7 +46,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
   **&nbsp;** 
 
-       Update link...
+       https://pastebin.com/fubebWzy
 
   - Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): 
   	- 10.10: <a href="/10.10.5">Click here move to folder.</a>

@@ -43,9 +43,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.
   - Một USB 3.0 8Gb hoặc cao hơn.
   - Sources OS link download: 
-
-  **&nbsp;** 
-
+  **&nbsp;**
+  
        https://pastebin.com/fubebWzy
 
   - Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): 
@@ -77,50 +76,42 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 ## Cài đặt
 
 ### Phân vùng ổ cứng hệ thống
-
   **&nbsp;**
 
      https://www.youtube.com/watch?v=uPbyxqggrA8
 
 ### Tạo bộ cài đặt trên USB:  
-
   **&nbsp;**
 
      https://youtu.be/9GjaZQTLVeQ
 
 ### Cài đặt macOS trên HDD:
-
   **&nbsp;**
 
      https://youtu.be/7gG6liug2w8
 
 ### Hoàn thiện máy sau cài đặt: 
   - Kext Network active Wi-Fi 9485.
-
   **&nbsp;**
 
      https://youtu.be/JU6qUJ-MpA0
 
   - Fix Graphics active Night Shift.
-
   **&nbsp;**
 
      https://youtu.be/8XlJ8UN94Ho
      
   - Cài đặt Clover EFI Bootloader cho phân vùng Macintosh HD.
-
   **&nbsp;**
 
      https://youtu.be/W5pLM5bKfaA
 
   - Tạo file SSDT hoạt động hiệu năng của CPU.  
-
   **&nbsp;** 
 
      https://youtu.be/wSqNAt8mHGE
 
   - Cài kext Audio sửa lỗi mất âm thanh sau khi gập Laptop.  
-
   **&nbsp;** 
 
      https://youtu.be/kXXDElK2EA8

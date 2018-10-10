@@ -43,6 +43,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.
   - Một USB 3.0 8Gb hoặc cao hơn.
   - Sources OS link download: 
+  
   **&nbsp;**
   
        https://pastebin.com/fubebWzy

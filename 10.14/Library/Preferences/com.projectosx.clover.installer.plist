@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CloverRevision</key>
+	<integer>4798</integer>
+	<key>InstalledThemes</key>
+	<array>
+		<string>christmas</string>
+		<string>mac_s</string>
+		<string>embedded</string>
+		<string>random</string>
+		<string>newyear</string>
+	</array>
+	<key>org.clover.bootloader.bootno</key>
+	<true/>
+	<key>org.clover.drivers64uefi.apfsdriverloader-64.uefi</key>
+	<true/>
+	<key>org.clover.drivers64uefi.aptiomemoryfix-64.uefi</key>
+	<true/>
+	<key>org.clover.fv2.drivers64uefi.appleimagecodec-64.uefi</key>
+	<true/>
+	<key>org.clover.fv2.drivers64uefi.applekeyaggregator-64.uefi</key>
+	<true/>
+	<key>org.clover.fv2.drivers64uefi.applekeyfeeder-64.uefi</key>
+	<true/>
+	<key>org.clover.fv2.drivers64uefi.appleuitheme-64.uefi</key>
+	<true/>
+	<key>org.clover.fv2.drivers64uefi.aptioinputfix-64.uefi</key>
+	<true/>
+	<key>org.clover.fv2.drivers64uefi.firmwarevolume-64.uefi</key>
+	<true/>
+	<key>org.clover.fv2.drivers64uefi.hashservicefix-64.uefi</key>
+	<true/>
+	<key>org.clover.optional.rc.scripts.disable.sleep.proxy.client</key>
+	<true/>
+	<key>org.clover.rc.scripts.on.all.volumes</key>
+	<true/>
+	<key>org.clover.special.themes.christmas</key>
+	<true/>
+	<key>org.clover.special.themes.newyear</key>
+	<true/>
+	<key>org.clover.target.esp</key>
+	<true/>
+	<key>org.clover.uefi.only</key>
+	<true/>
+</dict>
+</plist>

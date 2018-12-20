@@ -11,7 +11,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ## DOWNLOAD: PLEASE CHECK MY FIX UPDATE NEW RELEASES.
 
-   https://github.com/iGorEremenko/ASUS-K55VD-HACKINTOSH/releases/tag/10.14
+   https://github.com/iGorEremenko/ASUS-K55VD-HACKINTOSH/releases
 
 ## Status
  - Current version: up to date mac OS Sierra 10.13.1

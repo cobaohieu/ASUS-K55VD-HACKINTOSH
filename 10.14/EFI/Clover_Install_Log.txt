@@ -1,0 +1,56 @@
+
+Clover EFI installer log - Thu Dec 20 10:55:43 EET 2018
+Installer version: v2.4k r4798 EFI bootloader
+======================================================
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *240.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                 Apple_APFS Container disk2         155.8 GB   disk0s2
+   3:                 Apple_APFS Container disk1         49.4 GB    disk0s3
+   4:       Microsoft Basic Data                         34.3 GB    disk0s4
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +49.4 GB    disk1
+                                 Physical Store disk0s3
+   1:                APFS Volume MACMUSIC                13.9 GB    disk1s1
+   2:                APFS Volume Preboot                 22.3 MB    disk1s2
+   3:                APFS Volume Recovery                519.0 MB   disk1s3
+   4:                APFS Volume VM                      2.1 GB     disk1s4
+
+/dev/disk2 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +155.8 GB   disk2
+                                 Physical Store disk0s2
+   1:                APFS Volume PolyarixHD              73.0 GB    disk2s1
+   2:                APFS Volume Preboot                 43.5 MB    disk2s2
+   3:                APFS Volume Recovery                1.0 GB     disk2s3
+   4:                APFS Volume VM                      3.2 GB     disk2s4
+
+/dev/disk3 (disk image):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        +100.0 MB   disk3
+   1:       Microsoft Basic Data EFI                     98.6 MB    disk3s1
+
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/EFI/EFIROOTDIR/EFI folder to /Volumes/EFI/EFI-Backups/r4674/2018-12-20-10h55/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /Volumes/EFI
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /Volumes/EFI
+
+Removing drivers64UEFI/SMCHelper-64.efi driver because VirtualSMC driver present
+
+Removing drivers64UEFI/VBoxHfs-64.efi driver because HFSPlus driver present
+======================================================
+Installing RC Scripts
+
+
+
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================

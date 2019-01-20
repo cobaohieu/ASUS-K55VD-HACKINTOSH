@@ -82,7 +82,7 @@ But I have change some thing and added.
 
 ## Thanks for visting and watching
 
-## 10.14.X mac OS Mojave - Still Fix
+## 10.14.X mac OS Mojave - Still Fixing
 <img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
 
 ## 10.12.6 mac OS Sierra Full

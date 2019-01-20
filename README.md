@@ -14,7 +14,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
    https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
 ## Status
- - Current version: up to date mac OS Sierra 10.13.1
+ - Current version: up to date mac OS Sierra 10.14.2
  - Bootloader: Clover EFI
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, bluetooth...
  - Not working: GPU (had been disabled), card reader...

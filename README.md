@@ -82,4 +82,8 @@ But I have change some thing and added.
 
 ## Thanks for visting and watching
 
-<img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="" width="960" height="539" />
+## 10.14.X mac OS Mojave - Still Fix
+<img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
+
+## 10.12.6 mac OS Sierra Full
+<img class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="960" height="539" />

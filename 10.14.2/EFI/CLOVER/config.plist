@@ -224,39 +224,8 @@
 		<false/>
 		<key>KernelPm</key>
 		<false/>
-		<key>KernelToPatch</key>
-		<array>
-			<dict>
-				<key>Comment</key>
-				<string>xcpm bootstrap</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				jUPEg/gi
-				</data>
-				<key>Replace</key>
-				<data>
-				jUPGg/gi
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Reboot fix for xcpm</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				VUiJ5UFXQVZBVUFUU1BBidZBifdIiftFhf8PhA==
-				</data>
-				<key>Replace</key>
-				<data>
-				w0iJ5UFXQVZBVUFUU1BBidZBifdIiftFhf8PhA==
-				</data>
-			</dict>
-		</array>
 		<key>KernelXCPM</key>
-		<true/>
+		<false/>
 		<key>KextsToPatch</key>
 		<array>
 			<dict>

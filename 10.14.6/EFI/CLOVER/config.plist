@@ -88,7 +88,7 @@
 		<key>#Fast</key>
 		<true/>
 		<key>Arguments</key>
-		<string>shikigva=1 nv_disable=1 dart=0 kext-dev-mode=1</string>
+		<string>nv_disable=1 dart=0 kext-dev-mode=1</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
@@ -233,13 +233,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				jUPEg/gi
-				</data>
+				<data>jUPEg/gi</data>
 				<key>Replace</key>
-				<data>
-				jUPGg/gi
-				</data>
+				<data>jUPGg/gi</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -247,13 +243,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				VUiJ5UFXQVZBVUFUU1BBidZBifdIiftFhf8PhA==
-				</data>
+				<data>VUiJ5UFXQVZBVUFUU1BBidZBifdIiftFhf8PhA==</data>
 				<key>Replace</key>
-				<data>
-				w0iJ5UFXQVZBVUFUU1BBidZBifdIiftFhf8PhA==
-				</data>
+				<data>w0iJ5UFXQVZBVUFUU1BBidZBifdIiftFhf8PhA==</data>
 			</dict>
 		</array>
 		<key>KernelXCPM</key>
@@ -266,9 +258,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				ABAAB1IF
-				</data>
+				<data>ABAAB1IF</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -276,9 +266,7 @@
 				<key>Name</key>
 				<string>IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				ABAADrIF
-				</data>
+				<data>ABAADrIF</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -286,9 +274,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAdSU=
-				</data>
+				<data>AQAAdSU=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -296,9 +282,7 @@
 				<key>Name</key>
 				<string>com.apple.iokit.IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				AQAA6yU=
-				</data>
+				<data>AQAA6yU=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -306,17 +290,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				AgUAAAAEAAAHBAAA
-				</data>
+				<data>AgUAAAAEAAAHBAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
-				<data>
-				AgUAAAAIAAAGAAAA
-				</data>
+				<data>AgUAAAAIAAAGAAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -324,17 +304,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				AwQAAAAEAACBAAAA
-				</data>
+				<data>AwQAAAAEAACBAAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
-				<data>
-				AwQAAAAIAAAGAAAA
-				</data>
+				<data>AwQAAAAIAAAGAAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -342,17 +318,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				BAYAAAAEAACBAAAA
-				</data>
+				<data>BAYAAAAEAACBAAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
-				<data>
-				BAYAAAAIAAAGAAAA
-				</data>
+				<data>BAYAAAAIAAAGAAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -360,17 +332,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				BABmAQEDAQEAAAAC
-				</data>
+				<data>BABmAQEDAQEAAAAC</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
-				<data>
-				BABmAQECBAIAAAAE
-				</data>
+				<data>BABmAQECBAIAAAAE</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -378,19 +346,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				MAIAAAAAAAABAAAAQAAAAAAAAAABAAAAQAAAAAAAAAAB
-				AAAAQAAAAAAAAAAAAAAA
-				</data>
+				<data>MAIAAAAAAAABAAAAQAAAAAAAAAABAAAAQAAAAAAAAAABAAAAQAAAAAAAAAAAAAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
-				<data>
-				MAIAAAIFAAAABAAABwQAAAMEAAAABAAAgQAAAAQGAAAA
-				BAAAgQAAAAAAAAAAAgAR
-				</data>
+				<data>MAIAAAIFAAAABAAABwQAAAMEAAAABAAAgQAAAAQGAAAABAAAgQAAAAAAAAAAAgAR</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -398,17 +360,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				AgUAAAAEAAAHBAAA
-				</data>
+				<data>AgUAAAAEAAAHBAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
-				<data>
-				AgUAAAAIAAAGAAAA
-				</data>
+				<data>AgUAAAAIAAAGAAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -416,17 +374,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				AwQAAAAEAACBAAAA
-				</data>
+				<data>AwQAAAAEAACBAAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
-				<data>
-				AwQAAAAIAAAGAAAA
-				</data>
+				<data>AwQAAAAIAAAGAAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -434,33 +388,25 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				BAYAAAAEAACBAAAA
-				</data>
+				<data>BAYAAAAEAACBAAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferCapri</string>
 				<key>Replace</key>
-				<data>
-				BAYAAAAIAAAGAAAA
-				</data>
+				<data>BAYAAAAIAAAGAAAA</data>
 			</dict>
 			<dict>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				QVBQTEUgU1NE
-				</data>
+				<data>QVBQTEUgU1NE</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>
-				AAAAAAAAAAAA
-				</data>
+				<data>AAAAAAAAAAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -468,17 +414,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				RXh0ZXJuYWw=
-				</data>
+				<data>RXh0ZXJuYWw=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleAHCIPort</string>
 				<key>Replace</key>
-				<data>
-				SW50ZXJuYWw=
-				</data>
+				<data>SW50ZXJuYWw=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -486,17 +428,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AEFQUExFIFNTRAA=
-				</data>
+				<data>AEFQUExFIFNTRAA=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>
-				AAAAAAAAAAAAAAA=
-				</data>
+				<data>AAAAAAAAAAAAAAA=</data>
 			</dict>
 		</array>
 	</dict>
@@ -509,9 +447,7 @@
 		<key>MLB</key>
 		<string>C027055031THMHDAJ</string>
 		<key>ROM</key>
-		<data>
-		kMHGlrbM
-		</data>
+		<data>kMHGlrbM</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>

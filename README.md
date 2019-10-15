@@ -1,4 +1,4 @@
-# How to install OS X Yosemite 10.10, OS X El Capital 10.11, macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 on Laptop ASUS K55VD
+# How to install OS X Yosemite 10.10, OS X El Capital 10.11, macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14, mac OS Catalina 10.15 on Laptop ASUS K55VD
 
 Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
@@ -70,7 +70,7 @@ But I have change some thing and added.
 - Tonymacx86.com http://tonymacx86.com/
 - Macintosh-VN http://macintosh.vn/
 - OSX.vn: http://osx.vn/
-- Viethackintosh: https://viethackintosh.com/
+- Viethackintosh: https://docngaydicom/
 - Weloveapple: https://weloveapple.vn/
 - Clover EFI Bootloader Team: https://github.com/Clover-EFI-Bootloader/
 - chunnann: https://github.com/chunnann/
@@ -82,7 +82,10 @@ But I have change some thing and added.
 
 ## Thanks for visting and watching
 
-## 10.14.X mac OS Mojave - Still Fixing
+## 10.15.X mac OS Catalina - Still Fixing Wifi, Missing Bluetooth - Not Recommended
+<img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
+
+## 10.14.X mac OS Mojave - Missing Bluetooth
 <img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
 
 ## 10.12.6 mac OS Sierra Full

@@ -1,0 +1,15 @@
+sudo chmod -Rf 755 /S*/L*/E*
+sudo chmod -Rf 755 /L*/E*
+sudo chown -Rf 0:0 /S*/L*/E*
+sudo chown -Rf 0:0 /L*/E*
+sudo touch -f /S*/L*/E*
+sudo touch -f /L*/E*
+sudo kextcache -Boot -U /
+sudo rm -Rf /S*/L*/PrelinkedKernels
+sudo rm -Rf /S*/L*/Caches/com.apple.kext.caches
+cd /Library/Preferences/SystemConfiguration/
+sudo rm com.apple.airport.preferences.plist sudo rm com.apple.network.identification.plist
+sudo rm com.apple.wifi.message-tracer.plist
+sudo rm NetworkInterfaces.plist
+sudo rm preferences.plist
+System Preferences > Network > (bottom of window) Assist me... > Diagnostics...

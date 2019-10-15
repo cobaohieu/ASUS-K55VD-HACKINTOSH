@@ -1,0 +1,5 @@
+sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/usb --nointeraction
+
+sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
+
+sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/startosinstall

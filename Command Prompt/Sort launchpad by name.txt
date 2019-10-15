@@ -1,0 +1,14 @@
+defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
+
+defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock
+defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'; killall Dock
+defaults write com.apple.dock scroll-to-open -bool true; killall Dock
+defaults write com.apple.dock scroll-to-open -bool false; killall Dock
+defaults write com.apple.dock static-only -bool TRUE; killall Dock
+defaults write com.apple.dock static-only -bool false; killall Dock
+defaults delete com.apple.dock; killall Dock
+
+
+
+
+

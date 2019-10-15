@@ -1,0 +1,17 @@
+cd ~/Library/Caches/
+
+rm -R com.apple.Messages*
+
+rm -R com.apple.imfoundation*
+
+cd ~/Library/Preferences/
+
+rm com.apple.iChat*
+
+rm com.apple.imagent*
+
+rm com.apple.imessage*
+
+rm com.apple.imservice*
+
+rm -R ~/Library/Messages/

@@ -1,0 +1,7 @@
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew cask install osxfuse
+brew install ext4fuse
+sudo dscl . append /Groups/operator GroupMembership "$(whoami)"
+diskutil list
+sudo mkdir /Volumes/Ubuntu
+sudo ext4fuse /dev/disk0s3 /Volumes/Ubuntu -o allow_other

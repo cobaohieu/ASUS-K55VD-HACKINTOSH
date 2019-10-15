@@ -1,0 +1,1 @@
+sudo fsck_exfat -d disk0s1

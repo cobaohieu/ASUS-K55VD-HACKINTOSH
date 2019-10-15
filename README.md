@@ -83,10 +83,13 @@ But I have change some thing and added.
 ## Thanks for visting and watching
 
 ## 10.15.X mac OS Catalina - Still Fixing Wifi, Missing Bluetooth - Not Recommended
-<img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
+<img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="960" height="539" />
 
-## 10.14.X mac OS Mojave - Missing Bluetooth
+## 10.14.6 mac OS Mojave - Missing Bluetooth
 <img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
+
+## 10.13.6 mac OS High Sierra Full
+<img class="alignnone size-full wp-image-487" src="Images/img1013.png" alt="10.13.6 mac OS High Sierra" width="960" height="539" />
 
 ## 10.12.6 mac OS Sierra Full
 <img class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="960" height="539" />

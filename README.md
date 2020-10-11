@@ -14,6 +14,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 ## DOWNLOAD: PLEASE CHECK MY RELEASES.
 
    macOS all versions https://bit.ly/3lAF8xq
+   
    https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
 ## Status

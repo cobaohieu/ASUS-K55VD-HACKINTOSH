@@ -38,8 +38,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ### Status not working:
   - GT610M Graphics
-  - Realtek CardReader (Sometimes work, sometimes not work)
- 
+  - Realtek CardReader (Sometimes it's working, sometimes it isn't)
+
 ## Prepair
   - One USB 3.0 with 8Gb or higher
 
@@ -47,19 +47,21 @@ This is a working set of kexts and configurations for running OS X, macOS for la
      https://pastebin.com/fubebWzy
 
 ### Sources code Terminal:
-   - 10.10: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20OS%20X%20Yosemite%2010.10.txt">Guide Setup OS X Yosemite 10.10</a>
-   - 10.11: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20OS%20X%20El%20Capital%2010.11.txt">Guide Setup OS X El Capital 10.11</a>
-   - 10.12: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20macOS%20Sierra%2010.12.txt">Guide Setup macOS Sierra 10.12</a>
-   - 10.13: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20macOS%20High%20Sierra%2010.13.txt">Guide Setup macOS High Sierra 10.13</a>
-   - 10.14: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20macOS%20Mojave%2010.14.txt">Guide Setup macOS Mojave 10.14</a>
+   - 10.10: <a href="/Command Prompt/Guide Setup OS X Yosemite 10.10.txt">Guide Setup OS X Yosemite 10.10</a>
+   - 10.11: <a href="/Command Prompt/Guide Setup OS X El Capital 10.11.txt">Guide Setup OS X El Capital 10.11</a>
+   - 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
+   - 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
+   - 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
+	- 10.15: <a href="/Command Prompt/Guide Setup macOS Catalina.txt">Guide Setup macOS Catalina 10.15</a>
   - (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName or Usb or Usbmac to your usb name)
 
 ### Sources Clover: (Please choose your version of mac OS or OS X you want to install on my Laptop)
-  - 10.10: <a href="/10.10.5">Click here move to folder.</a>
-  - 10.11: <a href="/10.11.6">Click here move to folder.</a>
-  - 10.12: <a href="/10.12.6">Click here move to folder.</a>
-  - 10.13: <a href="/10.13.6">Click here move to folder.</a>
-  - 10.14: <a href="/10.14">Click here move to folder.</a>
+  	- 10.10: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.10.5">Click here move to folder.</a>
+  	- 10.11: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.11.6">Click here move to folder.</a>
+  	- 10.12: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.12.6">Click here move to folder.</a>
+  	- 10.13: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.13.6">Click here move to folder.</a>
+  	- 10.14: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.14.6">Click here move to folder.</a>
+  	- 10.15: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.15.7">Click here move to folder.</a>
 
 ### Sources Sofware:
   - Link download: <a href="/Software">Click here move to folder.</a>
@@ -71,7 +73,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
    https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
- 
+
 ## Install
   - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
   - Open Command Prompt via Aministrator access and typing.
@@ -83,7 +85,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
     - create part primary size=48500 | (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500, with mac 48,50Gb = 50Gb).
     - format fs=exfat quick label="Macintosh HD"
     - exit
-  - Done. 
+  - Done.
 
   **&nbsp;**
 
@@ -110,19 +112,19 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create  your account and set time zone > Diagnostic & Usage > Done.
 
 #### Modify OS
-  - Generator SSDT for CPU 
+  - Generator SSDT for CPU
 
   **&nbsp;**
 
      https://youtu.be/wSqNAt8mHGE
-     
-  - Fix WiFi woking on mac OS 
+
+  - Fix WiFi woking on mac OS (for mac OS 10.13 or early )
 
   **&nbsp;**
 
      https://youtu.be/JU6qUJ-MpA0
 
-  - Install Clover EFI Bootloader 
+  - Install Clover EFI Bootloader
 
   **&nbsp;**
 
@@ -134,15 +136,15 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
      https://youtu.be/8XlJ8UN94H
 
-  - Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor 
+  - Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor
 
   **&nbsp;**
 
-     https://youtu.be/kXXDElK2EA8   
+     https://youtu.be/kXXDElK2EA8
 
   - If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
   - If you not please do it below.
-  - Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create. 
+  - Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create.
   - Please choose it to first boot.
   - Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
 

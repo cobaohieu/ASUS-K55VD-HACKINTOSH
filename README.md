@@ -8,20 +8,24 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ![Screenshot](/Images/img01203.jpg)
 
-# 
+#
 <p align="center"><img src ="/Images/loading_spinner.gif" /></p>
 
 ## DOWNLOAD: PLEASE CHECK MY RELEASES.
 
    macOS all versions https://bit.ly/3lAF8xq
+<<<<<<< HEAD
    
+=======
+
+>>>>>>> Update Full Function macOS Catalina
    https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
 ## Status
- - Current version: up to date mac OS Sierra 10.14.2
+ - Current version: <b>up to 2021 with mac OS Catalina 10.15.7</b>
  - Bootloader: Clover EFI
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, bluetooth...
- - Not working: GPU (had been disabled), card reader...
+ - Not working: GPU (had been disabled)...
 
 ## How to install
  - Option 1: Follow the instructions in the video list above.
@@ -65,31 +69,32 @@ But I have change some thing and added.
 
 
 ## Thanks for sites and guys
-- BetaDroid: https://github.com/BetaDroid/
-- RehabMan: https://github.com/RehabMan/
 - Acidanthera: https://github.com/acidanthera/
+- Adam Strzelecki: https://github.com/nanoant/
+- BetaDroid: https://github.com/BetaDroid/
+- Bùi Minh Bình: https://niemtin007.blogspot.com/
+- chunnann: https://github.com/chunnann/
+- Clover EFI Bootloader Team: https://github.com/Clover-EFI-Bootloader/
+- Facebook: https://www.facebook.com/southernvevo
 - Github: https://github.com/
 - Google: https://youtube.com/southernvevo/
-- Facebook: https://www.facebook.com/southernvevo
-- Tonymacx86.com http://tonymacx86.com/
+- headkaze: https://github.com/headkaze/
+- Ipang Dwi: https://github.com/ipang-dwi
 - Macintosh-VN http://macintosh.vn/
 - OSX.vn: http://osx.vn/
-- Viethackintosh: https://docngaydicom/
-- Weloveapple: https://weloveapple.vn/
-- Clover EFI Bootloader Team: https://github.com/Clover-EFI-Bootloader/
-- chunnann: https://github.com/chunnann/
-- Bùi Minh Bình: https://niemtin007.blogspot.com/
-- Adam Strzelecki: https://github.com/nanoant/
+- RehabMan: https://github.com/RehabMan/
 - syscl: https://github.com/syscl
+- Tobias Salzmann: https://github.com/Eun/
+- Tonymacx86.com http://tonymacx86.com/
+- Weloveapple: https://weloveapple.vn/
 - ZeRo Xu: https://github.com/xzhih/
-- Tobias Salzmann: https://github.com/Eun/ 
 
 ## Thanks for visting and watching
 
-## 10.15.X mac OS Catalina - Still Fixing Wifi, Missing Bluetooth - Not Recommended
+## 10.15.7 mac OS Catalina Full and Recommend
 <img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="960" height="539" />
 
-## 10.14.6 mac OS Mojave - Missing Bluetooth
+## 10.14.6 mac OS Mojave Full
 <img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
 
 ## 10.13.6 mac OS High Sierra Full

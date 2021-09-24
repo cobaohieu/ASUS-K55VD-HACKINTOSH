@@ -19,7 +19,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - Webcam : 0.3 Web Camera
   - Card reader : Realtek PCI Express
   - Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
-  - Optical Drive: Super-Multi DVD (Optional) 
+  - Optical Drive: Super-Multi DVD (Optional)
 
 ## Các thành phần hoạt động tốt:
   - Graphics (Intel HD4000)
@@ -39,37 +39,39 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - GT610M Graphics
   - Realtek CardReader (thi thoảng hoạt động)
 
-## Yêu cầu: 
+## Yêu cầu:
   - BIOS cài về mặc định: khởi động máy tính F2 &gt; F9 &gt; F10 &gt; Enter.
   - Một USB 3.0 8Gb hoặc cao hơn.
-  - Sources OS link download: 
-  
+  - Sources OS link download:
+
   **&nbsp;**
-  
+
        https://pastebin.com/fubebWzy
 
-  - Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm): 
-  	- 10.10: <a href="/10.10.5">Click here move to folder.</a>
-  	- 10.11: <a href="/10.11.6">Click here move to folder.</a>
-  	- 10.12: <a href="/10.12.6">Click here move to folder.</a>
-  	- 10.13: <a href="/10.13.6">Click here move to folder.</a>
-  	- 10.14: <a href="/10.14">Click here move to folder.</a>
+  - Một folder Clover EFI (DSDT, SSDT và tất cả các kext gơm lượm):
+  	- 10.10: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.10.5">Click here move to folder.</a>
+  	- 10.11: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.11.6">Click here move to folder.</a>
+  	- 10.12: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.12.6">Click here move to folder.</a>
+  	- 10.13: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.13.6">Click here move to folder.</a>
+  	- 10.14: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.14.6">Click here move to folder.</a>
+  	- 10.15: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.15.7">Click here move to folder.</a>
 
 
 ## DOWNLOAD: PLEASE CHECK MY RELEASES.
 
    https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
-    
+
   - Folder Tools &amp; Software: <a href="/Software">Click here move to folder</a>
   - Kext Utility V2.6.6 <a href="https://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip" target="_blank">Click here to download</a>
   - Link Download MiniTool Partition Wizard Free Edition 10.2: <a href="https://download3.minitool.com/pw10/pw10-free.exe" target="_blank">Click here to download</a>
-  - Folder Chứa các lệnh Terminal Prompt: 
-	- 10.10: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20OS%20X%20Yosemite%2010.10.txt">Guide Setup OS X Yosemite 10.10</a>
-	- 10.11: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20OS%20X%20El%20Capital%2010.11.txt">Guide Setup OS X El Capital 10.11</a>
-	- 10.12: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20macOS%20Sierra%2010.12.txt">Guide Setup macOS Sierra 10.12</a>
-	- 10.13: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20macOS%20High%20Sierra%2010.13.txt">Guide Setup macOS High Sierra 10.13</a>
-	- 10.14: <a href="https://raw.githubusercontent.com/southernvevo/ASUS-K55VD-HACKINTOSH/master/Command%20Prompt/Guide%20Setup%20macOS%20Mojave%2010.14.txt">Guide Setup macOS Mojave 10.14</a>
+  - Folder Chứa các lệnh Terminal Prompt:
+   - 10.10: <a href="/Command Prompt/Guide Setup OS X Yosemite 10.10.txt">Guide Setup OS X Yosemite 10.10</a>
+   - 10.11: <a href="/Command Prompt/Guide Setup OS X El Capital 10.11.txt">Guide Setup OS X El Capital 10.11</a>
+   - 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
+   - 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
+   - 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
+	- 10.15: <a href="/Command Prompt/Guide Setup macOS Catalina.txt">Guide Setup macOS Catalina 10.15</a>
   - 30 – 40 phút cài đặt.
   - Mình cài trên HDD chuẩn EFI nhé.
   - Một Laptop chạy Windows 7 hoặc cao hơn.
@@ -93,34 +95,34 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
      https://youtu.be/7gG6liug2w8
 
-### Hoàn thiện máy sau cài đặt: 
+### Hoàn thiện máy sau cài đặt:
   - Kext Network active Wi-Fi athr9485.
-  
+
   **&nbsp;**
 
      https://youtu.be/JU6qUJ-MpA0
 
   - Fix Graphics active Night Shift.
-  
+
   **&nbsp;**
 
      https://youtu.be/8XlJ8UN94Ho
-     
+
   - Cài đặt Clover EFI Bootloader cho phân vùng Macintosh HD.
-  
+
   **&nbsp;**
 
      https://youtu.be/W5pLM5bKfaA
 
-  - Tạo file SSDT hoạt động hiệu năng của CPU.  
-  
-  **&nbsp;** 
+  - Tạo file SSDT hoạt động hiệu năng của CPU.
+
+  **&nbsp;**
 
      https://youtu.be/wSqNAt8mHGE
 
-  - Cài kext Audio sửa lỗi mất âm thanh sau khi gập Laptop.  
-  
-  **&nbsp;** 
+  - Cài kext Audio sửa lỗi mất âm thanh sau khi gập Laptop.
+
+  **&nbsp;**
 
      https://youtu.be/kXXDElK2EA8
 

@@ -11,10 +11,12 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 #
 <p align="center"><img src ="/Images/loading_spinner.gif" /></p>
 
-## DOWNLOAD: PLEASE CHECK MY RELEASES.
+## DOWNLOAD ALL VERSION FROM OS X TO MAC OS.
 
-   macOS all versions https://bit.ly/AllVersionsFromOSX2macOS
-   Update Full Function macOS Catalina
+   https://bit.ly/AllVersionsFromOSX2macOS
+   
+## DOWNLOAD AT MY RELEASES.
+
    https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
 ## Status

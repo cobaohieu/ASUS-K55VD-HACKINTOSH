@@ -52,7 +52,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
    - 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
    - 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
    - 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
-	- 10.15: <a href="/Command Prompt/Guide Setup macOS Catalina.txt">Guide Setup macOS Catalina 10.15</a>
+	- 10.15: <a href="/Command Prompt/Guide Setup macOS Catalina 10.5.7.txt">Guide Setup macOS Catalina 10.15</a>
+	- 11.2.3: <a href="/Command Prompt/Guide Setup macOS Big Sur 11.2.3.txt">Guide Setup macOS Big Sur 11.2.3</a>
   - (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName or Usb or Usbmac to your usb name)
 
 ### Sources Clover: (Please choose your version of mac OS or OS X you want to install on my Laptop)
@@ -62,6 +63,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   	- 10.13: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.13.6">Click here move to folder.</a>
   	- 10.14: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.14.6">Click here move to folder.</a>
   	- 10.15: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.15.7">Click here move to folder.</a>
+  	- 11.2.3: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/11.2.3">Click here move to folder.</a>
 
 ### Sources Sofware:
   - Link download: <a href="/Software">Click here move to folder.</a>

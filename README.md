@@ -1,6 +1,7 @@
-# End Support in July, 2020. Because Apple do not support the same model like my laptop. Let's move to Macbook Air or Macbook Pro, even Windows to get good support.
+## This is the gift for you at the end of COVID19 year in 2021.:! :))
+## What are you waiting for? Let's move to mac OS Big Sur with the new icon, smooth, and more....
 
-## How to install OS X Yosemite 10.10, OS X El Capital 10.11, macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14, mac OS Catalina 10.15 on Laptop ASUS K55VD
+## How to install OS X Yosemite 10.10, OS X El Capital 10.11, macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14, mac OS Catalina 10.15, mac OS Big Sur on Laptop ASUS K55VD
 
 Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
@@ -20,10 +21,14 @@ This is a working set of kexts and configurations for running OS X, macOS for la
    https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
 ## Status
- - Current version: <b>up to 2021 with mac OS Catalina 10.15.7</b>
- - Bootloader: Clover EFI
+ - Current version: 
+                <b>up to 2021 with mac OS Big Sur 11.2.3 with OpenCore.</b>
+                <b>up to 2021 with mac OS Catalina 10.15.7 with Clover.</b>
+ - Bootloader: Clover | OpenCore 0.75
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, bluetooth...
  - Not working: GPU (had been disabled)...
+ <b>- Warning: Do not update mac OS Big Sur 11.3 or later because you can not adjust the brightness or control it. I found the kext AppleIntelHD4000Graphics.kext in SLE with version 11.2.3 is difference with the latest version of mac OS 11. You could remove it and change it in later version with this kext with mac OS version 11.2.3 to make it work. However, I have no idea to do that.</b>
+ - Note: The OpenCore source code is also work with mac OS Catalina 10.15.7.
 
 ## How to install
  - Option 1: Follow the instructions in the video list above.
@@ -67,12 +72,14 @@ But I have change some thing and added.
 
 
 ## Thanks for sites and guys
+- Apple: https://www.apple.com
 - Acidanthera: https://github.com/acidanthera/
 - Adam Strzelecki: https://github.com/nanoant/
 - BetaDroid: https://github.com/BetaDroid/
 - Bùi Minh Bình: https://niemtin007.blogspot.com/
 - chunnann: https://github.com/chunnann/
 - Clover EFI Bootloader Team: https://github.com/Clover-EFI-Bootloader/
+- CloverHackyColor: https://github.com/CloverHackyColor
 - Facebook: https://www.facebook.com/southernvevo
 - Github: https://github.com/
 - Google: https://youtube.com/southernvevo/
@@ -86,17 +93,27 @@ But I have change some thing and added.
 - Tonymacx86.com http://tonymacx86.com/
 - Weloveapple: https://weloveapple.vn/
 - ZeRo Xu: https://github.com/xzhih/
+- Point View: https://www.youtube.com/channel/UC8E0M-dIEr44HHWfs8nv-Cg
+- hieplpvip: https://github.com/hieplpvip
+- EMlyDinEsH: https://osxlatitude.com/profile/7370-emlydinesh/
+- Pico joe: https://www.insanelymac.com/forum/profile/1113740-pico-joe/
+
 
 ## Thanks for visting and watching
 
-## 10.15.7 mac OS Catalina Full and Recommend
+## 11.2.3 mac OS Big Sur Full and Recommend version 11.2.3
+<img class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.2.3 mac Big Sur" width="960" height="539" />
+
+## 10.15.7 mac OS Catalina Full with Clover bootloader
 <img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="960" height="539" />
 
-## 10.14.6 mac OS Mojave Full
+## 10.14.6 mac OS Mojave Full with Clover bootloader
 <img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
 
-## 10.13.6 mac OS High Sierra Full
+## 10.13.6 mac OS High Sierra Full with Clover bootloader
 <img class="alignnone size-full wp-image-487" src="Images/img1013.png" alt="10.13.6 mac OS High Sierra" width="960" height="539" />
 
-## 10.12.6 mac OS Sierra Full
+## 10.12.6 mac OS Sierra Full with Clover bootloader
 <img class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="960" height="539" />
+
+# End Support in September, 2021 with mac OS Catalina 10.15. Because Apple do not support the same model like my laptop. Let's move to Macbook Air or Macbook Pro, even Windows to get good support.

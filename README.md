@@ -1,5 +1,3 @@
-# End Support in July, 2020. Because Apple do not support the same model like my laptop. Let's move to Macbook Air or Macbook Pro, even Windows to get good support.
-
 ## How to install OS X Yosemite 10.10, OS X El Capital 10.11, macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14, mac OS Catalina 10.15 on Laptop ASUS K55VD
 
 Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
@@ -100,3 +98,5 @@ But I have change some thing and added.
 
 ## 10.12.6 mac OS Sierra Full
 <img class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="960" height="539" />
+
+# End Support in September, 2021 with mac OS Catalina 10.15. Because Apple do not support the same model like my laptop. Let's move to Macbook Air or Macbook Pro, even Windows to get good support.

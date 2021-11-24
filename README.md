@@ -46,9 +46,9 @@ But I have change some thing and added.
 
  - Option 2: Follow guide below:
 
-<a href="/Lang/en.md">English</a>
+      <a href="/Lang/en.md">English</a>
 
-<a href="/Lang/vi.md">Tiếng Việt</a>
+      <a href="/Lang/vi.md">Tiếng Việt</a>
 
 
 ## Keyboard Function:

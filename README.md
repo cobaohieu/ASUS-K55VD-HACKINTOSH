@@ -1,6 +1,6 @@
-## ~.~<span color="orange">This is the gift for you at the end of COVID19 year in 2021.:! :))</span>
-## ^)^<span color="blue">TWhat are you waiting for? Let's move to mac OS Big Sur with the new icon, smooth, and more....</span>
-## --><span color="blue">TGo and check my releases...</span>
+## ~.~<span style="color:orange">This is the gift for you at the end of COVID19 year in 2021.:! :))</span>
+## ^)^<span style="color:blue">TWhat are you waiting for? Let's move to mac OS Big Sur with the new icon, smooth, and more....</span>
+## --><span style="color:blue">TGo and check my releases...</span>
 
 ## How to install OS X Yosemite 10.10, OS X El Capital 10.11, macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14, mac OS Catalina 10.15, mac OS Big Sur on Laptop ASUS K55VD
 
@@ -28,8 +28,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
  - Bootloader: Clover | OpenCore 0.75
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, bluetooth...
  - Not working: GPU (had been disabled)...
-</br><span color="blue">- Warning: <b>Do not update mac OS Big Sur 11.3 or later because you can not adjust the brightness or control it. I found the kext AppleIntelHD4000Graphics.kext in SLE with version 11.2.3 is difference with the latest version of mac OS 11. You could remove it and change it on Recovery Mode in later version with this kext with mac OS version 11.2.3 to make it work. However, I have no idea to do that.</b></span>
-</br><span color="green"> - Note: The OpenCore source code is also work with mac OS Catalina 10.15.7.</span>
+</br><span style="color:blue">- Warning: <b>Do not update mac OS Big Sur 11.3 or later because you can not adjust the brightness or control it. I found the kext AppleIntelHD4000Graphics.kext in SLE with version 11.2.3 is difference with the latest version of mac OS 11. You could remove it and change it on Recovery Mode in later version with this kext with mac OS version 11.2.3 to make it work. However, I have no idea to do that.</b></span>
+</br><span style="color:green"> - Note: The OpenCore source code is also work with mac OS Catalina 10.15.7.</span>
 
 ## How to install
  - Option 1: Follow the instructions in the video list above.

@@ -28,7 +28,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
  - Bootloader: Clover | OpenCore 0.75
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, bluetooth...
  - Not working: GPU (had been disabled)...
- - Warning: <b>Do not update mac OS Big Sur 11.3 or later because you can not adjust the brightness or control it. I found the kext AppleIntelHD4000Graphics.kext in SLE with version 11.2.3 is difference with the latest version of mac OS 11. You could remove it and change it in later version with this kext with mac OS version 11.2.3 to make it work. However, I have no idea to do that.</b>
+ - Warning: <b>Do not update mac OS Big Sur 11.3 or later because you can not adjust the brightness or control it. I found the kext AppleIntelHD4000Graphics.kext in SLE with version 11.2.3 is difference with the latest version of mac OS 11. You could remove it and change it on Recovery Mode in later version with this kext with mac OS version 11.2.3 to make it work. However, I have no idea to do that.</b>
  - Note: The OpenCore source code is also work with mac OS Catalina 10.15.7.
 
 ## How to install

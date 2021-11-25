@@ -3,8 +3,6 @@
 ## -->Go and check my releases...
 
 ## How to install hackintosh from version OS X to Mac OS on Laptop ASUS K55VD.
-### OS X Yosemite 10.10.X, OS X El Capital 10.11.X
-### macOS Sierra 10.12.X, macOS High Sierra 10.13.X, macOS Mojave 10.14.X, mac OS Catalina 10.15.X, mac OS Big Sur 11.2.3.
 
 Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
 This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
@@ -105,18 +103,18 @@ But I have changed something and added.
 
 ## Thanks for visiting and watching
 
-## 11.2.3 mac OS Big Sur Full and Recommend version 11.2.3
-<img class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.2.3 mac Big Sur" width="960" height="539" />
+## 11.2.3 mac OS Big Sur Full and Recommend version mac OS Big Sur 11.2.3
+<img class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.2.3 mac Big Sur" width="720" height="450" />
 
 ## 10.15.7 mac OS Catalina Full with Clover bootloader
-<img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="960" height="539" />
+<img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="720" height="450" />
 
 ## 10.14.6 mac OS Mojave Full with Clover bootloader
-<img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="960" height="539" />
+<img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="720" height="450" />
 
 ## 10.13.6 mac OS High Sierra Full with Clover bootloader
-<img class="alignnone size-full wp-image-487" src="Images/img1013.png" alt="10.13.6 mac OS High Sierra" width="960" height="539" />
+<img class="alignnone size-full wp-image-487" src="Images/img1013.png" alt="10.13.6 mac OS High Sierra" width="720" height="450" />
 
 ## 10.12.6 mac OS Sierra Full with Clover bootloader
-<img class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="960" height="539" />
+<img class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="720" height="450" />
 

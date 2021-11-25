@@ -23,9 +23,9 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ## Status
  - Current version: 
-   + </br><b>up to 2021 with mac OS Monterey 12.0.1 with OpenCore (Graphics and WiFi will not work).</b>
-   + </br><b>up to 2021 with mac OS Big Sur 11.2.3 with OpenCore.</b>
-   + </br><b>up to 2021 with mac OS Catalina 10.15.7 with Clover.</b>
+   + <b>up to 2021 with mac OS Monterey 12.0.1 with OpenCore (Graphics and WiFi will not work).</b>
+   + <b>up to 2021 with mac OS Big Sur 11.2.3 with OpenCore.</b>
+   + <b>up to 2021 with mac OS Catalina 10.15.7 with Clover.</b>
  - Bootloader: Clover | OpenCore 0.75
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, Bluetooth...
  - Not working: GPU (had been disabled)...

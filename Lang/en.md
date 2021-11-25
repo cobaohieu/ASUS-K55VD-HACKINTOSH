@@ -6,149 +6,149 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ## System
 ### Specifications:
-  - Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
-  - Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
-  - Hard disk : HDD Seagate 500GB
-  - RAM : 6GB DDR3 / bus 1600
-  - Wifi : Qualcomm Atheros AR9485WB-EG
-  - LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
-  - Audio : Realtek ALC270
-  - USB 3.0 : Intel 7series/210 USB 3.0
-  - Touchpad : Elan Touchpad
-  - Webcam : 0.3 Web Camera
-  - Card reader: Realtek PCI Express
-  - Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
-  - Optical Drive: Super-Multi DVD (Optional).
+ - Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
+ - Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
+ - Hard disk : HDD Seagate 500GB
+ - RAM : 6GB DDR3 / bus 1600
+ - Wifi : Qualcomm Atheros AR9485WB-EG
+ - LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
+ - Audio : Realtek ALC270
+ - USB 3.0 : Intel 7series/210 USB 3.0
+ - Touchpad : Elan Touchpad
+ - Webcam : 0.3 Web Camera
+ - Card reader: Realtek PCI Express
+ - Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
+ - Optical Drive: Super-Multi DVD (Optional).
 
 ## Status
 ### Status Working:
-  - Graphics (Intel HD4000).
-  - Audio.
-  - WIFI.
-  - Bluetooth.
-  - Webcam.
-  - LAN.
-  - HDMI.
-  - VGA work but not good.
-  - Sleep, Processor Speedsteps and Native power management.
-  - Trackpad.
-  - Fn Hotkeys.
-  - USB works.
-  - Disable turbo boost on battery (if neccessary).
+ - Graphics (Intel HD4000).
+ - Audio.
+ - WIFI.
+ - Bluetooth.
+ - Webcam.
+ - LAN.
+ - HDMI.
+ - VGA work but not good.
+ - Sleep, Processor Speedsteps and Native power management.
+ - Trackpad.
+ - Fn Hotkeys.
+ - USB works.
+ - Disable turbo boost on battery (if neccessary).
 
 ### Status not working:
-  - GT610M Graphics
-  - Realtek CardReader (Sometimes it's working, sometimes it isn't)
+ - GT610M Graphics
+ - Realtek CardReader (Sometimes it's working, sometimes it isn't)
 
 ## Prepair
-  - One USB 3.0 with 8Gb or higher
+ - One USB 3.0 with 8Gb or higher
 
 ### Sources OS:
-     https://pastebin.com/fubebWzy
+ https://pastebin.com/fubebWzy
 
 ### Sources code Terminal:
-   - 10.10: <a href="/Command Prompt/Guide Setup OS X Yosemite 10.10.txt">Guide Setup OS X Yosemite 10.10</a>
-   - 10.11: <a href="/Command Prompt/Guide Setup OS X El Capital 10.11.txt">Guide Setup OS X El Capital 10.11</a>
-   - 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
-   - 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
-   - 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
-	- 10.15: <a href="/Command Prompt/Guide Setup macOS Catalina 10.5.7.txt">Guide Setup macOS Catalina 10.15</a>
-	- 11.2.3: <a href="/Command Prompt/Guide Setup macOS Big Sur 11.2.3.txt">Guide Setup macOS Big Sur 11.2.3</a>
-  - (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName or Usb or Usbmac to your usb name)
+ - 10.10: <a href="/Command Prompt/Guide Setup OS X Yosemite 10.10.txt">Guide Setup OS X Yosemite 10.10</a>
+ - 10.11: <a href="/Command Prompt/Guide Setup OS X El Capital 10.11.txt">Guide Setup OS X El Capital 10.11</a>
+ - 10.12: <a href="/Command Prompt/Guide Setup macOS Sierra 10.12.txt">Guide Setup macOS Sierra 10.12</a>
+ - 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
+ - 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
+ - 10.15: <a href="/Command Prompt/Guide Setup macOS Catalina 10.5.7.txt">Guide Setup macOS Catalina 10.15</a>
+ - 11.2.3: <a href="/Command Prompt/Guide Setup macOS Big Sur 11.2.3.txt">Guide Setup macOS Big Sur 11.2.3</a>
+ - (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName or Usb or Usbmac to your usb name)
 
-### Sources Clover: (Please choose your version of mac OS or OS X you want to install on my Laptop)
-  	- 10.10: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.10.5">Click here move to folder.</a>
-  	- 10.11: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.11.6">Click here move to folder.</a>
-  	- 10.12: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.12.6">Click here move to folder.</a>
-  	- 10.13: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.13.6">Click here move to folder.</a>
-  	- 10.14: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.14.6">Click here move to folder.</a>
-  	- 10.15: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.15.7">Click here move to folder.</a>
-  	- 11.2.3: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/11.2.3">Click here move to folder.</a>
+### Sources Clover: (Please choose your version of Mac OS or OS X you want to install on my Laptop)
+ - 10.10: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.10.5">Click here move to folder.</a>
+ - 10.11: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.11.6">Click here move to folder.</a>
+ - 10.12: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.12.6">Click here move to folder.</a>
+ - 10.13: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.13.6">Click here move to folder.</a>
+ - 10.14: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.14.6">Click here move to folder.</a>
+ - 10.15: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.15.7">Click here move to folder.</a>
+ - 11.2.3: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/11.2.3">Click here move to folder.</a>
 
 ### Sources Sofware:
-  - Link download: <a href="/Software">Click here move to folder.</a>
-  - 30 minutes to setup or higher.
-  - A PC run mac OS or virtual machine run on Windows 7 or higher.
+ - Link download: <a href="/Software">Click here move to folder.</a>
+ - 30 minutes to setup or higher.
+ - A PC run mac OS or virtual machine run on Windows 7 or higher.
 
 
 ## DOWNLOAD: PLEASE CHECK MY RELEASES.
 
-   https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
+ https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH/releases/
 
 
 ## Install
-  - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
-  - Open Command Prompt via Aministrator access and typing.
-    - diskpart
-    - list disk | (please choose your HDD you want install macOS).
-    - sel disk 0 | (change 0 to your HDD on list).
-    - create part efi size=504 | (if no empty partition please delete about 50Gb).
-    - format fs=fat32 quick label="EFI"
-    - create part primary size=48500 | (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500, with mac 48,50Gb = 50Gb).
-    - format fs=exfat quick label="Macintosh HD"
-    - exit
-  - Done.
+ - Seperate HDD with WindowsPE or Windows 7 or higher or source setup windows.
+ - Open Command Prompt via Aministrator access and typing.
+ - diskpart
+ - list disk | (please choose your HDD you want install macOS).
+ - sel disk 0 | (change 0 to your HDD on list).
+ - create part efi size=504 | (if no empty partition please delete about 50Gb).
+ - format fs=fat32 quick label="EFI"
+ - create part primary size=48500 | (change 48,50Gb to your Gb you want to create, if you want create all please delete size=48500, with mac 48,50Gb = 50Gb).
+ - format fs=exfat quick label="Macintosh HD"
+ - exit
+ - Done.
 
-  **&nbsp;**
+ **&nbsp;**
 
-     https://www.youtube.com/watch?v=uPbyxqggrA8
+ https://www.youtube.com/watch?v=uPbyxqggrA8
 
-  - Plug in usb to usb 3.0 port and Format usb  with HFS - (notes: Format with GUID Partition MAP).
-  - Download source setup and copy it to Application folder.
-  - Download and open file sources code ".txt" for Terminal which OS you want to setup.
-  - Open Terminal and copy and paste from first line to final line.
-  -  After it all, copy Clover folder go to Volume Fat32 of EFI | (if can't boot please remove folder APPLE).
-  - Make USB Boot on mac OS or OS X or virtual machine run mac OS or OS X | (Or you can copy folder to Volume EFI on HDD and create boot from BIOS).
+ - Plug-in USB to USB 3.0 port and Format USB with HFS - (notes: Format with GUID Partition MAP).
+ - Download source setup and copy it to Application folder.
+ - Download and open file sources code ".txt" for Terminal which OS you want to set up.
+ - Open Terminal and copy and paste from the first line to the final line.
+ - After it all, copy Clover folder go to Volume Fat32 of EFI | (if can't boot please remove folder APPLE).
+ - Make USB Boot on Mac OS or OS X or virtual machine run mac OS or OS X | (Or you can copy the folder to Volume EFI on HDD and create boot from BIOS).
 
-  **&nbsp;**
+ **&nbsp;**
 
-     https://youtu.be/9GjaZQTLVeQ
+ https://youtu.be/9GjaZQTLVeQ
 
-  - Setup
+ - Setup
 
-  **&nbsp;**
+ **&nbsp;**
 
-     https://youtu.be/7gG6liug2w8
+ https://youtu.be/7gG6liug2w8
 
-  -  After boot please choose Continue > Agree > Agree > choose your volume to install | (Look in menu bar and choose Utilities > Disk Utility > Choose your label volume "Macintosh HD" or your volume name and Earse with HFS - for HDD or AFPS for SSD) like "Macintosh HD" > Install > Done. Wait for a few minutes your laptop will reboot.
-  - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create  your account and set time zone > Diagnostic & Usage > Done.
+ - After boot please choose to Continue > Agree > Agree > choose your volume to install | (Look in the menu bar and choose Utilities > Disk Utility > Choose your label volume "Macintosh HD" or your volume name and Erase with HFS - for HDD or AFPS for SSD) like "Macintosh HD" > Install > Done. Wait for a few minutes your laptop will reboot.
+ - After reboot: Choose your country > keyboard > Choose your network > Transfer do not > Enable Location > Login icloud (if you need or skip) > Agree with Term and Condition > Create your account and set time zone > Diagnostic & Usage > Done.
 
 #### Modify OS
-  - Generator SSDT for CPU
+ - Generator SSDT for CPU
 
-  **&nbsp;**
+ **&nbsp;**
 
-     https://youtu.be/wSqNAt8mHGE
+ https://youtu.be/wSqNAt8mHGE
 
-  - Fix WiFi woking on mac OS (for mac OS 10.13 or early )
+ - Fix WiFi working on Mac OS (for Mac OS 10.13 or early )
 
-  **&nbsp;**
+ **&nbsp;**
 
-     https://youtu.be/JU6qUJ-MpA0
+ https://youtu.be/JU6qUJ-MpA0
 
-  - Install Clover EFI Bootloader
+ - Install Clover EFI Bootloader
 
-  **&nbsp;**
+ **&nbsp;**
 
-     https://www.youtube.com/watch?v=W5pLM5bKfaA
+ https://www.youtube.com/watch?v=W5pLM5bKfaA
 
-  - Fix Graphics with Night Mode, True HD display
+ - Fix Graphics with Night Mode, True HD display
 
-  **&nbsp;**
+ **&nbsp;**
 
-     https://youtu.be/8XlJ8UN94H
+ https://youtu.be/8XlJ8UN94H
 
-  - Install some kext to fix mute after lid your Laptop and view infomation for app HWMonitor
+ - Install some kext to fix mute after lid your Laptop and view information for app HWMonitor
 
-  **&nbsp;**
+ **&nbsp;**
 
-     https://youtu.be/kXXDElK2EA8
+ https://youtu.be/kXXDElK2EA8
 
-  - If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
-  - If you not please do it below.
-  - Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create.
-  - Please choose it to first boot.
-  - Done. Go to your Macintosh HD and enjoy. Install your software you like or love.
+ - If you have a bios boot with EFI folder on volume EFI like up you don't want to make it again.
+ - If you do not please do it below.
+ - Go to BIOS set up > Boot > look below Add new boot option > Add boot option: macOS Boot Manager > Select Filesystems: Choose your HDD contain volume Mackintosh HD > Patch for boot option: \EFI\CLOVER\CLOVERX64.efi > create.
+ - Please choose it to first boot.
+ - Done. Go to your Macintosh HD and enjoy. Install the software you like or love.
 
 
 

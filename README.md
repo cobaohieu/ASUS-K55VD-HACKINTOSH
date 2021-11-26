@@ -53,15 +53,15 @@ But I have changed something and added.
 
 
 ## Keyboard Function:
- - Shift + F2: Brightness down
- - Shift + F3: Brightness up
+ - Shift + F2 or Screen Lock (F14 in mac) : Brightness down
+ - Shift + F3 or Pause Break (F15 in mac): Brightness up
  - Shift + F4: Hide/Show launchpad
  - Shift + F5: Show all windows of app
  - Shift + F6: Show windows present of app
  - Shift + F11: Close windows present of app
  - Shift + F12: Show/ Hide windows present
- - Fn + F5 : Brightness down
- - Fn + F6 : Brightness up
+ - Fn + F5 or Screen Lock : Brightness down 
+ - Fn + F6 or Pause Break: Brightness up
  - Fn + F7: Turn of display
  - Fn + F9: Turn on/off Touchpad
  - Fn + F10: Mute

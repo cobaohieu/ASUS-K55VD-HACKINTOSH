@@ -1,7 +1,7 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install macfuse
 touch ~/ext4fuse.rb
--------- copy all the thing in ext4fuse.rb
+-------- copy all the things below into exist ext4fuse.rb file
 class MacFuseRequirement < Requirement
   fatal true
 

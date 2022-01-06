@@ -31,7 +31,7 @@
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>IO80211CountryCode</key>
-				<string>US</string>
+				<string>VN</string>
 				<key>IO80211Locale</key>
 				<string>FCC</string>
 			</dict>

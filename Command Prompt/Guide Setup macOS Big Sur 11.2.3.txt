@@ -1,1 +1,5 @@
-sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/usb
+sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/usb --nointeraction
+
+sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/usb --nointeraction --downloadassets
+
+sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/startosinstall

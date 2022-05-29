@@ -1,17 +1,14 @@
-# How to install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra, macOS High Sierra 10.13 on Laptop ASUS K55VD
-
-Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
-This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
+# How to install OS X 10.10 to macOS 12.4 on Laptop ASUS K55VD
 
 
-# Hướng dẫn để cài đặt macOS High Sierra 10.13 trên Laptop ASUS K55VD.
 
+## Hệ thống
 ## Cấu hình cơ bản:
   - Processor : Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz (Ivy Bridge)
   - Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
   - Hard disk : HDD Hitachi 500GB
   - RAM : 6GB DDR3 / bus 1600
-  - Wifi + Buetooth: Qualcomm Atheros AR9485WB-EG
+  - Wifi + Buetooth: Thay thế Broadcom BCM94352HMB (Qualcomm Atheros AR9485WB-EG không còn hoạt động nữa)
   - LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
   - Audio : Realtek ALC270
   - USB 3.0 : Intel 7 series/210 USB 3.0
@@ -21,6 +18,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   - Monitor: 15.6" 16:9 HD (1366x768) LED Backlight
   - Optical Drive: Super-Multi DVD (Optional)
 
+## Tình trạng
 ## Các thành phần hoạt động tốt:
   - Graphics (Intel HD4000)
   - Audio
@@ -55,7 +53,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
   	- 10.13: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.13.6">Click here move to folder.</a>
   	- 10.14: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.14.6">Click here move to folder.</a>
   	- 10.15: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.15.7">Click here move to folder.</a>
-  	- 11.2.3: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/11.2.3">Click here move to folder.</a>
+  	- 11.6.6: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/11.6.6">Click here move to folder.</a>
 
 
 ## DOWNLOAD: PLEASE CHECK MY RELEASES.
@@ -73,7 +71,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
    - 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
    - 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
 	- 10.15: <a href="/Command Prompt/Guide Setup macOS Catalina 10.5.7.txt">Guide Setup macOS Catalina 10.15</a>
-	- 11.2.3: <a href="/Command Prompt/Guide Setup macOS Big Sur 11.2.3.txt">Guide Setup macOS Big Sur 11.2.3</a>
+	- 11.6.6: <a href="/Command Prompt/Guide Setup macOS Big Sur 11.6.6.txt">Guide Setup macOS Big Sur 11.6.6</a>
+   - 12.4: <a href="/Command Prompt/Guide Setup macOS Monterey 12.4.txt">Guide Setup macOS Monterey 12.4</a>
   - 30 – 40 phút cài đặt.
   - Mình cài trên HDD chuẩn EFI nhé.
   - Một Laptop chạy Windows 7 hoặc cao hơn.

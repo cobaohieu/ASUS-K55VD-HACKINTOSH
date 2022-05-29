@@ -23,13 +23,12 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ## Status
  - Current version: 
-   + <b>up to 2021 with mac OS Monterey 12.0.1 with OpenCore (Graphics and WiFi will not work).</b>
-   + <b>up to 2021 with mac OS Big Sur 11.2.3 with OpenCore.</b>
+   + <b>up to 2021 with mac OS Monterey 12.4 with OpenCore (Graphics and WiFi will not work).</b>
+   + <b>up to 2021 with mac OS Big Sur 11.6.6 with OpenCore.</b>
    + <b>up to 2021 with mac OS Catalina 10.15.7 with Clover.</b>
- - Bootloader: Clover | OpenCore 0.75
+ - Bootloader: Clover | OpenCore 0.8.0
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, Bluetooth...
  - Not working: GPU (had been disabled)...
- - Warning: <span style="color:blue"><b>Do not update mac OS Big Sur 11.3 or later because you can not adjust the brightness or control it. I found the kext AppleIntelHD4000Graphics.kext in SLE with version 11.2.3 is different from the latest version of mac OS 11. You could remove it and change it on Recovery Mode in a later version with this kext with mac OS version 11.2.3 to make it work. However, I have no idea to do that.</b></span>
  - Note: <span style="color:green">The OpenCore source code is also work with mac OS Catalina 10.15.7.</span>
 
 ## How to install
@@ -53,13 +52,6 @@ But I have changed something and added.
 
 
 ## Keyboard Function:
- - Shift + F2 or Screen Lock (F14 in mac) for plug keyboard : Brightness down
- - Shift + F3 or Pause Break (F15 in mac) for plug keyboard: Brightness up
- - Shift + F4: Hide/Show launchpad
- - Shift + F5: Show all windows of app
- - Shift + F6: Show windows present of app
- - Shift + F11: Close windows present of app
- - Shift + F12: Show/ Hide windows present
  - Fn + F5 or Screen Lock : Brightness down 
  - Fn + F6 or Pause Break: Brightness up
  - Fn + F7: Turn of display
@@ -71,6 +63,13 @@ But I have changed something and added.
  - Fn + arrow down: Pause/Play media
  - Fn + arrow left: play previous media
  - Fn + arrow right: play next media
+ - Shift + F2 or Screen Lock (F14 in mac) for plug keyboard : Brightness down
+ - Shift + F3 or Pause Break (F15 in mac) for plug keyboard: Brightness up
+ - Shift + F4: Hide/Show launchpad
+ - Shift + F5: Show all windows of app
+ - Shift + F6: Show windows present of app
+ - Shift + F11: Close windows present of app
+ - Shift + F12: Show/ Hide windows present
 
 
 ## Thanks for sites and guys
@@ -100,11 +99,12 @@ But I have changed something and added.
 - EMlyDinEsH: https://osxlatitude.com/profile/7370-emlydinesh/
 - Pico joe: https://www.insanelymac.com/forum/profile/1113740-pico-joe/
 - Nguyễn Văn Vương: https://github.com/nguyentuevuong/
+- Rafael M.: https://github.com/rafaelmaeuer/Asus-UX32VD-Hackintosh/
 
 ## Thanks for visiting and watching
 
-## 11.2.3 mac OS Big Sur Full and Recommend version mac OS Big Sur 11.2.3
-<img class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.2.3 mac Big Sur" width="720" height="450" />
+## 11.6.6 mac OS Big Sur Full and Recommend version mac OS Big Sur 11.6.6
+<img class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.6.6 mac Big Sur" width="720" height="450" />
 
 ## 10.15.7 mac OS Catalina Full with Clover bootloader
 <img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="720" height="450" />

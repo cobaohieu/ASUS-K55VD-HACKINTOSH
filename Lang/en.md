@@ -1,7 +1,5 @@
-# How to install OS X 10.10 Yosemite, OS X 10.11 El Capital, macOS 10.12 Sierra, macOS High Sierra 10.13 on Laptop ASUS K55VD
+# Hướng dẫn cài đặt hệ điều hành Apple từ phiên bản OS X 10.10 đến macOS 12.4 trên Laptop ASUS K55VD
 
-Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
-This is a working set of kexts and configurations for running OS X, macOS for laptop ASUS K55VD.
 
 
 ## System
@@ -10,7 +8,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
  - Graphics Processor(GPU) : Intel HD4000 and Nvidia Optimus GT610M with 2GB DDR3 VRAM
  - Hard disk : HDD Seagate 500GB
  - RAM : 6GB DDR3 / bus 1600
- - Wifi : Qualcomm Atheros AR9485WB-EG
+ - Wifi + Bluetooth: Replace Broadcom BCM94352HMB (Qualcomm Atheros AR9485WB-EG is not working)
  - LAN : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
  - Audio : Realtek ALC270
  - USB 3.0 : Intel 7series/210 USB 3.0
@@ -53,7 +51,8 @@ This is a working set of kexts and configurations for running OS X, macOS for la
  - 10.13: <a href="/Command Prompt/Guide Setup macOS High Sierra 10.13.txt">Guide Setup macOS High Sierra 10.13</a>
  - 10.14: <a href="/Command Prompt/Guide Setup macOS Mojave 10.14.txt">Guide Setup macOS Mojave 10.14</a>
  - 10.15: <a href="/Command Prompt/Guide Setup macOS Catalina 10.5.7.txt">Guide Setup macOS Catalina 10.15</a>
- - 11.2.3: <a href="/Command Prompt/Guide Setup macOS Big Sur 11.2.3.txt">Guide Setup macOS Big Sur 11.2.3</a>
+ - 11.6.6: <a href="/Command Prompt/Guide Setup macOS Big Sur 11.6.6.txt">Guide Setup macOS Big Sur 11.6.6</a>
+ - 12.4: <a href="/Command Prompt/Guide Setup macOS Monterey 12.4.txt">Guide Setup macOS Monterey 12.4</a>
  - (Please rename sources setup by copy sources setup to Application folder before run Terminal, rename UsbName or Usb or Usbmac to your usb name)
 
 ### Sources Clover: (Please choose your version of Mac OS or OS X you want to install on my Laptop)
@@ -63,7 +62,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
  - 10.13: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.13.6">Click here move to folder.</a>
  - 10.14: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.14.6">Click here move to folder.</a>
  - 10.15: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/10.15.7">Click here move to folder.</a>
- - 11.2.3: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/11.2.3">Click here move to folder.</a>
+ - 11.6.6: <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH/releases/tag/11.6.6">Click here move to folder.</a>
 
 ### Sources Sofware:
  - Link download: <a href="/Software">Click here move to folder.</a>

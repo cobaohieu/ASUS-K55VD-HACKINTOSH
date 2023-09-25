@@ -69,6 +69,23 @@ But I have changed something and added.
  - Shift + F11: Close windows present of app
  - Shift + F12: Show/ Hide windows present
 
+## Thanks for visiting and watching
+
+## 11.6.6 mac OS Big Sur Full and Recommend version mac OS Big Sur 11.6.6
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.6.6 mac Big Sur" width="720" height="450" />
+
+## 10.15.7 mac OS Catalina Full with Clover bootloader
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="720" height="450" />
+
+## 10.14.6 mac OS Mojave Full with Clover bootloader
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="720" height="450" />
+
+## 10.13.6 mac OS High Sierra Full with Clover bootloader
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img1013.png" alt="10.13.6 mac OS High Sierra" width="720" height="450" />
+
+## 10.12.6 mac OS Sierra Full with Clover bootloader
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="720" height="450" />
+
 
 ## Thanks for sites and guys
 - Apple: https://www.apple.com
@@ -98,21 +115,4 @@ But I have changed something and added.
 - Pico joe: https://www.insanelymac.com/forum/profile/1113740-pico-joe/
 - Nguyễn Văn Vương: https://github.com/nguyentuevuong/
 - Rafael M.: https://github.com/rafaelmaeuer/Asus-UX32VD-Hackintosh/
-
-## Thanks for visiting and watching
-
-## 11.6.6 mac OS Big Sur Full and Recommend version mac OS Big Sur 11.6.6
-<img align="center" class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.6.6 mac Big Sur" width="720" height="450" />
-
-## 10.15.7 mac OS Catalina Full with Clover bootloader
-<img align="center" class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="720" height="450" />
-
-## 10.14.6 mac OS Mojave Full with Clover bootloader
-<img align="center" class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="720" height="450" />
-
-## 10.13.6 mac OS High Sierra Full with Clover bootloader
-<img align="center" class="alignnone size-full wp-image-487" src="Images/img1013.png" alt="10.13.6 mac OS High Sierra" width="720" height="450" />
-
-## 10.12.6 mac OS Sierra Full with Clover bootloader
-<img align="center" class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="720" height="450" />
 

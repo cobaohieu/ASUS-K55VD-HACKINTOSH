@@ -2169,7 +2169,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>darkwake=0 alcid=3 alctsel=1 nv_disable=1 -wegnoegpu -cdfon -asussmcdbg -lilubetaall amfi_get_out_of_my_way=1 -no_compat_check -nobiobeta -vsmcbeta -wegnoegpu -cdfon gfxrst=4 rtsx8411 -rtsxnopm</string>
+				<string>darkwake=0 watchdog=0 alcid=3 alctsel=1 nv_disable=1 -wegnoegpu -cdfon -asussmcdbg -lilubetaall amfi_get_out_of_my_way=1 -no_compat_check -nobiobeta -vsmcbeta -wegnoegpu -cdfon gfxrst=4 igfxonln=1 rtsx8411 -rtsxnopm</string>
 				<key>csr-active-config</key>
 				<string>0x0</string>
 				<key>prev-lang:kbd</key>

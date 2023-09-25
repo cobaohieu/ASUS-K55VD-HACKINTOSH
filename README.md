@@ -71,7 +71,7 @@ But I have changed something and added.
 
 ## Thanks for visiting and watching
 
-## 11.6.6 mac OS Big Sur Full and Recommend version mac OS Big Sur 11.6.6
+## 11.6.6 mac OS Big Sur Full with OpenCore bootloader
 <img align="center" class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.6.6 mac Big Sur" width="720" height="450" />
 
 ## 10.15.7 mac OS Catalina Full with Clover bootloader

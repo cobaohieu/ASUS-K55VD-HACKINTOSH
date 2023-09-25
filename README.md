@@ -115,4 +115,5 @@ But I have changed something and added.
 - Pico joe: https://www.insanelymac.com/forum/profile/1113740-pico-joe/
 - Nguyễn Văn Vương: https://github.com/nguyentuevuong/
 - Rafael M.: https://github.com/rafaelmaeuer/Asus-UX32VD-Hackintosh/
+- Administrators of Olarila: https://www.olarila.com/topic/5676-hackintosh-efi-folder-with-clover-and-opencore/
 

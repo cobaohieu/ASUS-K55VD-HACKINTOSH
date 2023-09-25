@@ -1,7 +1,3 @@
-## ~.~This is the gift for you at the end of COVID19 year in 2021.:! :))
-## ^)^What are you waiting for? Let's move to mac OS Big Sur with the new icon, smooth, and more...
-## -->Go and check my releases...
-
 ## How to install hackintosh from version OS X to Mac OS on Laptop ASUS K55VD.
 
 Make Laptop ASUS K55VD like Mac Book Pro 2012 late run real macOS.
@@ -15,7 +11,9 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 
 ## DOWNLOAD ALL VERSIONS FROM OS X TO MAC OS.
 
- https://bit.ly/AllVersionsFromOSX2macOS
+ https://bit.ly/AllVersionsFromOSX2macOS <br>
+ <p>or</p>
+ https://maclife.io/tong-hop-link-tai-cac-phien-ban-macos-big-sur-tu-server-apple.html
  
 ## DOWNLOAD AT MY RELEASES.
 
@@ -24,7 +22,7 @@ This is a working set of kexts and configurations for running OS X, macOS for la
 ## Status
  - Current version: 
    + <b>up to 2021 with mac OS Monterey 12.4 with OpenCore (Graphics and WiFi will not work).</b>
-   + <b>up to 2021 with mac OS Big Sur 11.6.6 with OpenCore.</b>
+   + <b>up to 2021 with mac OS Big Sur 11.7.10 with OpenCore.</b>
    + <b>up to 2021 with mac OS Catalina 10.15.7 with Clover.</b>
  - Bootloader: Clover | OpenCore 0.8.0
  - Working: CPU steps, sleep, audio, multitouch, FN keys, USB, camera, wifi, Bluetooth...
@@ -104,17 +102,17 @@ But I have changed something and added.
 ## Thanks for visiting and watching
 
 ## 11.6.6 mac OS Big Sur Full and Recommend version mac OS Big Sur 11.6.6
-<img class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.6.6 mac Big Sur" width="720" height="450" />
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img11.png" alt="11.6.6 mac Big Sur" width="720" height="450" />
 
 ## 10.15.7 mac OS Catalina Full with Clover bootloader
-<img class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="720" height="450" />
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img1015.png" alt="10.15.X mac OS Catalina" width="720" height="450" />
 
 ## 10.14.6 mac OS Mojave Full with Clover bootloader
-<img class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="720" height="450" />
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img1014.png" alt="10.14.X mac OS Mojave" width="720" height="450" />
 
 ## 10.13.6 mac OS High Sierra Full with Clover bootloader
-<img class="alignnone size-full wp-image-487" src="Images/img1013.png" alt="10.13.6 mac OS High Sierra" width="720" height="450" />
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img1013.png" alt="10.13.6 mac OS High Sierra" width="720" height="450" />
 
 ## 10.12.6 mac OS Sierra Full with Clover bootloader
-<img class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="720" height="450" />
+<img align="center" class="alignnone size-full wp-image-487" src="Images/img101206.png" alt="10.12.6 mac OS Sierra" width="720" height="450" />
 
